@@ -1,0 +1,3743 @@
+# coding: utf-8
+# 小鹤音形符号、二重简码等词库
+# 该文件以UTF-8编码保存
+# 编码格式：字词+Tab符+编码（词库本身有重码则还需后面+Tab符+权重，权重大者居前，权重数字随意）
+#    === 强调一下 === 
+# 
+#   词条和编码之间的不是空格，而是Tab符，如果你不知道，就复制下面编码中的空白处
+#   或者按住键盘 G 键，切换到功能键盘，使用上面的Tab键
+# 
+#    ================
+# 本词库默认包含了生僻字、次选词、三码二字词、二重简码、增补字、符号及部分emoji表情
+
+https://flypy.com	xhgw
+https://bbs.flypy.com	xhlt
+http://flypy.ys168.com	xhwp
+https://help.flypy.com	xhrm
+😂	oi
+
+# 快捷符号，使用外接键盘时调换下面两行的数字
+：“	;q
+？	;w
+（	;e
+）	;r
+@	;t
+·	;y
++	;u
+-	;i
+*	;o
+/	;p
+！	;a
+……	;s
+、	;d
+《	;g
+[	;h
+]	;j
+(	;k
+)	;l
+“	;z
+→	;x
+”	;c
+——	;v
+》	;b
+<	;n
+>	;m
+
+
+
+
+
+
+
+
+
+
+#符号
+！	oa
+%	ob
+
+一	oba	111
+丨	obl	111
+丿	obp	111
+丶	obd	111
+乛	obv	111
+乀	obn	111
+鱼	oba
+冖	obb	100
+宀	obb	99
+丷	obb	98
+疒	obb	97
+勹	obb	96
+比左部	obb	95
+艹	obc	100
+廾	obc	99
+冫	obd	100
+氵	obd	99
+⺈	obd	98
+刂	obd	97
+阝	obe	100
+卩	obe	99
+彐	obe	98
+山	obe	97
+见下部	obe	96
+扌	obf	100
+寿带上部	obf	99
+龶	obf	98
+缶	obf	97
+既左部	obg	100
+艮	obg	99
+鬼	obg	98
+革	obg	96
+骨	obg	97
+灬	obh	100
+虍	obh	99
+黑	obh	98
+余下部	obh	97
+彳	obi	100
+亍	obi	99
+虫	obi	98
+钅	obj	100
+金	obj	99
+龹	obj	98
+匚	obk	100
+冂	obk	99
+凵	obk	98
+囗	obk	97
+㠯	obk	96
+耂	obl	100
+立	obl	99
+龙	obl	98
+朩	obm
+⺧	obn	100
+牜	obn	99
+日	obo	100
+月	obo	99
+目	obo	98
+礻	obp	100
+衤	obp	99
+犭	obq	100
+求	obq	99
+具其上部	obq	98
+亻	obr
+纟	obs	100
+厶	obs	99
+龴	obs	98
+罒	obs	97
+田	obt
+饣	obu	100
+龵	obu	99
+𠂇	obu	98
+氺	obu	97
+石	obu	96
+⺮	obv	100
+豸	obv	99
+亠	obw	100
+夂	obw	99
+攵	obw	98
+文	obw	97
+忄	obx	100
+乂	obx	99
+⺍	obx	98
+⺌	obx	97
+⺗	obx	96
+讠	oby	100
+⺷	oby	99
+⺶	oby	98
+𧘇	oby	97
+羊	oby	96
+⻊	obz	100
+廴	obz	99
+辶	obz	98
+
+
+”	oc
+、	od
+（	oh
+）	oj
+《	ok	90
+》	ol
+，	on
+。	om
+
+
+→	of	100
+标点b	of	99
+点数d	of	98
+单位d	of	97
+俄语e	of	96
+日语r	of	95
+罗马数字l	of	94
+希腊字母x	of	93
+下标x	of	92
+中文数字v	of	91
+制表v	of	90
+注音v	of	89
+箭头t	of	88
+偏旁p	of	87
+数学u	of	86
+特殊t	of	85
+上标u	of	84
+苏州码子s	of	83
+括号数字k	of	82
+圆圈数字y	of	81
+货币h	of	80
+한글h	of	79
+
+
+
+标点符号d	ofb
+“”	ofbd	100
+（）	ofbd	99
+《》	ofbd	98
+〈〉	ofbd	97
+〔〕	ofbd	96
+‘’	ofbd	95
+「」	ofbd	94
+『』	ofbd	93
+【】	ofbd	92
+〖〗	ofbd	91
+［］	ofbd	90
+｛｝	ofbd	89
+．	ofbd	88
+。	ofbd	87
+，	ofbd	86
+、	ofbd	85
+；	ofbd	84
+：	ofbd	83
+？	ofbd	82
+！	ofbd	81
+…	ofbd	80
+—	ofbd	79
+·	ofbd	78
+ˉ	ofbd	77
+ˇ	ofbd	76
+¨	ofbd	75
+々	ofbd	74
+～	ofbd	73
+‖	ofbd	72
+∶	ofbd	71
+＂	ofbd	70
+	ofbd	69
+｀	ofbd	68
+｜	ofbd	67
+
+
+点数u	ofd	100
+⒈	ofdu	100
+⒉	ofdu	99
+⒊	ofdu	98
+⒋	ofdu	97
+⒌	ofdu	96
+⒍	ofdu	95
+⒎	ofdu	94
+⒏	ofdu	93
+⒐	ofdu	92
+⒑	ofdu	91
+⒒	ofdu	90
+⒓	ofdu	89
+⒔	ofdu	88
+⒕	ofdu	87
+⒖	ofdu	86
+⒗	ofdu	85
+⒘	ofdu	84
+⒙	ofdu	83
+⒚	ofdu	82
+⒛	ofdu	81
+
+
+
+单位w	ofd	99
+㎎	ofdw	100
+㎏	ofdw	99
+㎜	ofdw	98
+㎝	ofdw	97
+㎞	ofdw	96
+㎡	ofdw	95
+nm	ofdw	94
+μm	ofdw	93
+μg	ofdw	92
+㏄	ofdw	91
+㏎	ofdw	90
+㏑	ofdw	89
+㏒	ofdw	88
+㏕	ofdw	87
+
+
+
+俄语字母大写d	ofe	100
+А	ofed	100
+Б	ofed	99
+В	ofed	98
+Г	ofed	97
+Д	ofed	96
+Е	ofed	95
+Ж	ofed	94
+З	ofed	93
+И	ofed	92
+Й	ofed	91
+К	ofed	90
+Л	ofed	89
+М	ofed	88
+Н	ofed	87
+О	ofed	86
+П	ofed	85
+Р	ofed	84
+С	ofed	83
+Т	ofed	82
+У	ofed	81
+Ф	ofed	80
+Х	ofed	79
+Ц	ofed	78
+Ч	ofed	77
+Ш	ofed	76
+Щ	ofed	75
+Ъ	ofed	74
+Ы	ofed	73
+Ь	ofed	72
+Э	ofed	71
+Ю	ofed	70
+Я	ofed	69
+Ё	ofed	68
+
+
+
+
+俄语字母小写x	ofe	99
+а	ofex	100
+б	ofex	99
+в	ofex	98
+г	ofex	97
+д	ofex	96
+е	ofex	95
+ж	ofex	94
+з	ofex	93
+и	ofex	92
+й	ofex	91
+к	ofex	90
+л	ofex	89
+м	ofex	88
+н	ofex	87
+о	ofex	86
+п	ofex	85
+р	ofex	84
+с	ofex	83
+т	ofex	82
+у	ofex	81
+ф	ofex	80
+х	ofex	79
+ц	ofex	78
+ч	ofex	77
+ш	ofex	76
+щ	ofex	75
+ъ	ofex	74
+ы	ofex	73
+ь	ofex	72
+э	ofex	71
+ю	ofex	70
+я	ofex	69
+ё	ofex	68
+
+
+
+
+括数u	ofk
+⑴	ofku	100
+⑵	ofku	99
+⑶	ofku	98
+⑷	ofku	97
+⑸	ofku	96
+⑹	ofku	95
+⑺	ofku	94
+⑻	ofku	93
+⑼	ofku	92
+⑽	ofku	91
+⑾	ofku	90
+⑿	ofku	89
+⒀	ofku	88
+⒁	ofku	87
+⒂	ofku	86
+⒃	ofku	85
+⒄	ofku	84
+⒅	ofku	83
+⒆	ofku	82
+⒇	ofku	81
+
+
+
+货币b	ofh
+€	ofhb	100
+$	ofhb	99
+￠	ofhb	98
+£	ofhb	97
+￡	ofhb	96
+¥	ofhb	94
+￥	ofhb	93
+฿	ofhb	92
+═	ofht	100
+║	ofht	99
+╧	ofht	98
+╪	ofht	97
+╤	ofht	96
+╡	ofht	95
+╞	ofht	94
+▁	ofht	93
+╕	ofht	92
+╒	ofht	91
+╛	ofht	90
+╘	ofht	89
+
+
+
+
+日语片假名d	ofr	100
+ァ	ofrd	100
+ア	ofrd	99
+ィ	ofrd	98
+イ	ofrd	97
+ゥ	ofrd	96
+ウ	ofrd	95
+ェ	ofrd	94
+エ	ofrd	93
+ォ	ofrd	92
+オ	ofrd	91
+カ	ofrd	90
+ガ	ofrd	89
+キ	ofrd	88
+ギ	ofrd	87
+ク	ofrd	86
+グ	ofrd	85
+ケ	ofrd	84
+ゲ	ofrd	83
+コ	ofrd	82
+ゴ	ofrd	81
+サ	ofrd	80
+ザ	ofrd	79
+シ	ofrd	78
+ジ	ofrd	77
+ス	ofrd	76
+ズ	ofrd	75
+セ	ofrd	74
+ゼ	ofrd	73
+ソ	ofrd	72
+ゾ	ofrd	71
+タ	ofrd	70
+ダ	ofrd	69
+チ	ofrd	68
+ヂ	ofrd	67
+ッ	ofrd	66
+ツ	ofrd	65
+ヅ	ofrd	64
+テ	ofrd	63
+デ	ofrd	62
+ト	ofrd	61
+ド	ofrd	60
+ナ	ofrd	59
+ニ	ofrd	58
+ヌ	ofrd	57
+ネ	ofrd	56
+ノ	ofrd	55
+ハ	ofrd	54
+バ	ofrd	53
+パ	ofrd	52
+ヒ	ofrd	51
+ビ	ofrd	50
+ピ	ofrd	49
+フ	ofrd	48
+ブ	ofrd	47
+プ	ofrd	46
+ヘ	ofrd	45
+ベ	ofrd	44
+ペ	ofrd	43
+ホ	ofrd	42
+ボ	ofrd	41
+ポ	ofrd	40
+マ	ofrd	39
+ミ	ofrd	38
+ム	ofrd	37
+メ	ofrd	36
+モ	ofrd	35
+ャ	ofrd	34
+ヤ	ofrd	33
+ュ	ofrd	32
+ユ	ofrd	31
+ョ	ofrd	30
+ヨ	ofrd	29
+ラ	ofrd	28
+リ	ofrd	27
+ル	ofrd	26
+レ	ofrd	25
+ロ	ofrd	24
+ヮ	ofrd	23
+ワ	ofrd	22
+ヰ	ofrd	21
+ヱ	ofrd	20
+ヲ	ofrd	19
+ン	ofrd	18
+ヴ	ofrd	17
+ヵ	ofrd	16
+ヶ	ofrd	15
+ー	ofrd	14
+ヽ	ofrd	13
+ヾ	ofrd	12
+
+
+
+
+箭头t	ofj
+←	ofjt	100
+→	ofjt	99
+↑	ofjt	98
+↓	ofjt	97
+↗	ofjt	96
+↙	ofjt	95
+↘	ofjt	94
+↖	ofjt	93
+↔	ofjt	92
+↕	ofjt	91
+↚	ofjt	90
+↛	ofjt	89
+↜	ofjt	88
+↝	ofjt	87
+↞	ofjt	86
+↟	ofjt	85
+↠	ofjt	84
+↡	ofjt	83
+↢	ofjt	82
+↣	ofjt	81
+↤	ofjt	80
+↥	ofjt	79
+↦	ofjt	78
+↧	ofjt	77
+↨	ofjt	76
+↩	ofjt	75
+↪	ofjt	74
+↫	ofjt	73
+↬	ofjt	72
+↭	ofjt	71
+↮	ofjt	70
+↯	ofjt	69
+↰	ofjt	68
+↱	ofjt	67
+↲	ofjt	66
+↳	ofjt	65
+↴	ofjt	64
+↵	ofjt	63
+↶	ofjt	62
+↷	ofjt	61
+↸	ofjt	60
+↹	ofjt	59
+↺	ofjt	58
+↻	ofjt	57
+↼	ofjt	56
+↽	ofjt	55
+↾	ofjtupharpoonright
+↿	ofjtupharpoonleft
+⇀	ofjtrightharpoonup
+⇁	ofjtrightharpoondown
+⇂	ofjtdownharpoonright
+⇃	ofjtdownharpoonleft
+⇄	ofjtrightleftarrows
+⇅	ofjtupdownarrows
+⇆	ofjtleftrightarrows
+⇇	ofjtleftleftarrows
+⇈	ofjtupuparrows
+⇉	ofjtrightrightarrows
+⇊	ofjtdowndownarrows
+⇋	ofjtleftrightharpoons
+⇌	ofjtrightleftharpoons
+⇍	ofjtnLeftarrow
+⇎	ofjtnLeftrightarrow
+⇏	ofjtnRightarrow
+⇐	ofjtLeftarrow
+⇑	ofjtUparrow
+⇒	ofjtTo
+⇒	ofjtRightarrow
+⇓	ofjtDownarrow
+⇔	ofjtLeftrightarrow
+⇕	ofjtUpdownarrow
+⇖	ofjtNwarrow
+⇗	ofjtNearrow
+⇘	ofjtSearrow
+⇙	ofjtSwarrow
+⇚	ofjtLleftarrow
+⇛	ofjtTO
+⇛	ofjtRrightarrow
+⇜	ofjtleftsquigarrow
+⇝	ofjtrightsquigarrow
+⇞	ofjtnHuparrow
+⇟	ofjtnHdownarrow
+⇠	ofjtleftdasharrow
+⇡	ofjtupdasharrow
+⇢	ofjtrightdasharrow
+⇣	ofjtdowndasharrow
+⇤	ofjtbarleftarrow
+⇥	ofjtrightarrowbar
+⇦	ofjtleftwhitearrow
+⇧	ofjtupwhitearrow
+⇨	ofjtrightwhitearrow
+⇩	ofjtdownwhitearrow
+⇪	ofjtwhitearrowupfrombar
+⇴	ofjtcircleonrightarrow
+⇵	ofjtdownuparrows
+⇶	ofjtrightthreearrows
+⇷	ofjtnvleftarrow
+⇸	ofjtnvrightarrow
+⇹	ofjtnvleftrightarrow
+⇺	ofjtnVleftarrow
+⇻	ofjtnVrightarrow
+⇼	ofjtnVleftrightarrow
+⇽	ofjtleftarrowtriangle
+⇾	ofjtrightarrowtriangle
+⇿	ofjtleftrightarrowtriangle
+
+
+
+
+日语平假名x	ofr	99
+ぁ	ofrx	100
+あ	ofrx	99
+ぃ	ofrx	98
+い	ofrx	97
+ぅ	ofrx	96
+う	ofrx	95
+ぇ	ofrx	94
+え	ofrx	93
+ぉ	ofrx	92
+お	ofrx	91
+か	ofrx	90
+が	ofrx	89
+き	ofrx	88
+ぎ	ofrx	87
+ぱ	ofrx	86
+く	ofrx	85
+ぐ	ofrx	84
+け	ofrx	83
+げ	ofrx	82
+こ	ofrx	81
+ご	ofrx	80
+さ	ofrx	79
+ざ	ofrx	78
+し	ofrx	77
+じ	ofrx	76
+す	ofrx	75
+ず	ofrx	74
+せ	ofrx	73
+ぜ	ofrx	72
+そ	ofrx	71
+ぞ	ofrx	70
+た	ofrx	69
+だ	ofrx	68
+ち	ofrx	67
+ぢ	ofrx	66
+っ	ofrx	65
+つ	ofrx	64
+づ	ofrx	63
+て	ofrx	62
+で	ofrx	61
+と	ofrx	60
+ど	ofrx	59
+な	ofrx	58
+に	ofrx	57
+ぬ	ofrx	56
+ね	ofrx	55
+の	ofrx	54
+は	ofrx	53
+ば	ofrx	52
+ひ	ofrx	51
+び	ofrx	50
+ぴ	ofrx	49
+ふ	ofrx	48
+ぶ	ofrx	47
+ぷ	ofrx	46
+へ	ofrx	45
+べ	ofrx	44
+ぺ	ofrx	43
+ほ	ofrx	42
+ぼ	ofrx	41
+ぽ	ofrx	40
+ま	ofrx	39
+み	ofrx	38
+む	ofrx	37
+め	ofrx	36
+も	ofrx	35
+ゃ	ofrx	34
+や	ofrx	33
+ゅ	ofrx	32
+ゆ	ofrx	31
+ょ	ofrx	30
+よ	ofrx	29
+ら	ofrx	28
+り	ofrx	27
+る	ofrx	26
+れ	ofrx	25
+ろ	ofrx	24
+ゎ	ofrx	23
+わ	ofrx	22
+ゐ	ofrx	21
+ゑ	ofrx	20
+を	ofrx	19
+ん	ofrx	18
+゛	ofrx	17
+゜	ofrx	16
+ゝ	ofrx	15
+ゞ	ofrx	14
+
+한글g	ofh	99
+ㅂ	ofhg	100
+ㅈ	ofhg	99
+ㄷ	ofhg	98
+ㄱ	ofhg	97
+ㅅ	ofhg	96
+
+ㅃ	ofhg	95
+ㅉ	ofhg	94
+ㄸ	ofhg	93
+ㄲ	ofhg	92
+ㅆ	ofhg	91
+
+ㅛ	ofhg	90
+ㅕ	ofhg	89
+ㅑ	ofhg	88
+ㅒ	ofhg	87
+ㅖ	ofhg	86
+
+ㅔ	ofhg	85
+ㅐ	ofhg	84
+ㅁ	ofhg	83
+ㄴ	ofhg	82
+ㅇ	ofhg	81
+
+ㄹ	ofhg	80
+ㅎ	ofhg	78
+ㅓ	ofhg	76
+ㅏ	ofhg	75
+ㅣ	ofhg	74
+
+ㅋ	ofhg	73
+ㅌ	ofhg	72
+ㅊ	ofhg	71
+ㅍ	ofhg	70
+ㅠ	ofhg	69
+
+ㅜ	ofhg	68
+ㅡ	ofhg	67
+ㅗ	ofhg	66
+ㅘ	ofhg	65
+ㅙ	ofhg	64
+
+ㅚ	ofhg	63
+ㅝ	ofhg	62
+ㅞ	ofhg	61
+ㅟ	ofhg	60
+ㅢ	ofhg	59
+
+
+
+偏旁p	ofp	100
+勹	ofpp	100
+灬	ofpp	99
+冫	ofpp	98
+艹	ofpp	97
+屮	ofpp	96
+辶	ofpp	95
+刂	ofpp	94
+匚	ofpp	93
+阝	ofpp	92
+廾	ofpp	91
+丨	ofpp	90
+虍	ofpp	89
+彐	ofpp	88
+卩	ofpp	87
+钅	ofpp	86
+冂	ofpp	85
+冖	ofpp	84
+宀	ofpp	83
+疒	ofpp	82
+肀	ofpp	81
+丿	ofpp	80
+攵	ofpp	79
+凵	ofpp	78
+犭	ofpp	77
+亻	ofpp	76
+彡	ofpp	75
+饣	ofpp	74
+礻	ofpp	73
+扌	ofpp	72
+氵	ofpp	71
+纟	ofpp	70
+亠	ofpp	69
+囗	ofpp	68
+忄	ofpp	67
+讠	ofpp	66
+衤	ofpp	65
+廴	ofpp	64
+尢	ofpp	63
+夂	ofpp	62
+丶	ofpp	61
+丬	ofpp	60
+
+
+
+
+拼音y	ofp	99
+ā	ofpy	100
+á	ofpy	99
+ǎ	ofpy	98
+à	ofpy	97
+ō	ofpy	96
+ó	ofpy	95
+ǒ	ofpy	94
+ò	ofpy	93
+ê	ofpy	92
+ē	ofpy	91
+é	ofpy	90
+ě	ofpy	89
+è	ofpy	88
+ī	ofpy	87
+í	ofpy	86
+ǐ	ofpy	85
+ì	ofpy	84
+ǖ	ofpy	83
+ǘ	ofpy	82
+ǚ	ofpy	81
+ǜ	ofpy	80
+ü	ofpy	79
+ū	ofpy	78
+ú	ofpy	77
+ǔ	ofpy	76
+ù	ofpy	75
+
+
+
+罗马数字大写d	ofl	100
+Ⅰ	ofld	100
+Ⅱ	ofld	99
+Ⅲ	ofld	98
+Ⅳ	ofld	97
+Ⅴ	ofld	96
+Ⅵ	ofld	95
+Ⅶ	ofld	94
+Ⅷ	ofld	93
+Ⅸ	ofld	92
+Ⅹ	ofld	91
+Ⅺ	ofld	90
+Ⅻ	ofld	89
+
+
+
+罗马数字小写x	ofl	99
+ⅰ	oflx	100
+ⅱ	oflx	99
+ⅲ	oflx	98
+ⅳ	oflx	97
+ⅴ	oflx	96
+ⅵ	oflx	95
+ⅶ	oflx	94
+ⅷ	oflx	93
+ⅸ	oflx	92
+ⅹ	oflx	91
+
+
+
+特殊u	oft
+℃	oftu	100
+°	oftu	99
+‰	oftu	98
+♂	oftu	97
+♀	oftu	96
+§	oftu	95
+№	oftu	94
+☆	oftu	93
+★	oftu	92
+○	oftu	91
+●	oftu	90
+◎	oftu	89
+◇	oftu	88
+◆	oftu	87
+□	oftu	86
+■	oftu	85
+△	oftu	84
+▲	oftu	83
+※	oftu	82
+〓	oftu	81
+＃	oftu	80
+＆	oftu	79
+＠	oftu	78
+＼	oftu	77
+＾	oftu	76
+＿	oftu	75
+￣	oftu	74
+
+
+
+数学x	ofu
+＋	ofux	100
+－	ofux	99
+＜	ofux	98
+＝	ofux	97
+＞	ofux	96
+±	ofux	95
+∓	ofux	94
+×	ofux	94
+÷	ofux	93
+∈	ofux	92
+∉	ofux	92
+∏	ofux	91
+∑	ofux	90
+∕	ofux	89
+√	ofux	88
+∛	ofux	88
+∜	ofux	87
+∝	ofux	87
+∞	ofux	86
+∟	ofux	85
+∠	ofux	84
+∣	ofux	83
+∥	ofux	82
+∧	ofux	81
+∨	ofux	80
+∩	ofux	79
+∪	ofux	78
+∫	ofux	77
+∬	ofux	77
+∭	ofux	77
+∮	ofux	76
+∯	ofux	76
+∰	ofux	76
+∴	ofux	75
+∵	ofux	74
+∶	ofux	73
+∷	ofux	72
+∽	ofux	71
+≈	ofux	70
+≌	ofux	69
+≒	ofux	68
+≠	ofux	67
+≡	ofux	66
+≤	ofux	65
+≥	ofux	64
+≦	ofux	63
+≧	ofux	62
+≮	ofux	61
+≯	ofux	60
+⊕	ofux	59
+⊙	ofux	58
+⊥	ofux	57
+⊿	ofux	56
+∂	ofux	55
+∃	ofux	54
+∄	ofux	53
+
+
+中数u	ofv	100
+㈠	ofvu	100
+㈡	ofvu	99
+㈢	ofvu	98
+㈣	ofvu	97
+㈤	ofvu	96
+㈥	ofvu	95
+㈦	ofvu	94
+㈧	ofvu	93
+㈨	ofvu	92
+㈩	ofvu	91
+
+
+
+注音y	ofv	99
+ㄅ	ofvy	100
+ㄆ	ofvy	99
+ㄇ	ofvy	98
+ㄈ	ofvy	97
+ㄉ	ofvy	96
+ㄊ	ofvy	95
+ㄋ	ofvy	94
+ㄌ	ofvy	93
+ㄍ	ofvy	92
+ㄎ	ofvy	91
+ㄏ	ofvy	90
+ㄐ	ofvy	89
+ㄑ	ofvy	88
+ㄒ	ofvy	87
+ㄓ	ofvy	86
+ㄔ	ofvy	85
+ㄕ	ofvy	84
+ㄖ	ofvy	83
+ㄗ	ofvy	82
+ㄘ	ofvy	81
+ㄙ	ofvy	80
+ㄧ	ofvy	79
+ㄨ	ofvy	78
+ㄩ	ofvy	77
+ㄚ	ofvy	76
+ㄛ	ofvy	75
+ㄜ	ofvy	74
+ㄝ	ofvy	73
+ㄞ	ofvy	72
+ㄟ	ofvy	71
+ㄠ	ofvy	70
+ㄡ	ofvy	69
+ㄢ	ofvy	68
+ㄣ	ofvy	67
+ㄤ	ofvy	66
+ㄥ	ofvy	65
+ㄦ	ofvy	64
+
+
+
+希腊字母大写d	ofx	100
+Α	ofxd	100
+Β	ofxd	99
+Γ	ofxd	98
+Δ	ofxd	97
+Ε	ofxd	96
+Ζ	ofxd	95
+Η	ofxd	94
+Θ	ofxd	93
+Ι	ofxd	92
+Κ	ofxd	91
+Λ	ofxd	90
+Μ	ofxd	89
+Ν	ofxd	88
+Ξ	ofxd	87
+Ο	ofxd	86
+Π	ofxd	85
+Ρ	ofxd	84
+Σ	ofxd	83
+Τ	ofxd	82
+Υ	ofxd	81
+Φ	ofxd	80
+Χ	ofxd	79
+Ψ	ofxd	78
+Ω	ofxd	77
+
+
+
+
+希腊字母小写x	ofx	99
+α	ofxx	100
+β	ofxx	99
+γ	ofxx	98
+δ	ofxx	97
+ε	ofxx	96
+ζ	ofxx	95
+η	ofxx	94
+θ	ofxx	93
+ι	ofxx	92
+κ	ofxx	91
+λ	ofxx	90
+μ	ofxx	89
+ν	ofxx	88
+ξ	ofxx	87
+ο	ofxx	86
+π	ofxx	85
+ρ	ofxx	84
+σ	ofxx	83
+τ	ofxx	82
+υ	ofxx	81
+φ	ofxx	80
+χ	ofxx	79
+ψ	ofxx	78
+ω	ofxx	77
+
+
+
+
+圆数u	ofy
+①	ofyu	100
+②	ofyu	99
+③	ofyu	98
+④	ofyu	97
+⑤	ofyu	96
+⑥	ofyu	95
+⑦	ofyu	94
+⑧	ofyu	93
+⑨	ofyu	92
+⑩	ofyu	91
+
+
+
+制表b	ofv	99
+┌	ofvb	100
+└	ofvb	99
+┐	ofvb	98
+┘	ofvb	97
+─	ofvb	96
+│	ofvb	95
+├	ofvb	94
+┤	ofvb	93
+┬	ofvb	92
+┴	ofvb	91
+┼	ofvb	90
+
+
+
+上标b	ofu	99
+¹	ofub	100
+²	ofub	99
+³	ofub	98
+⁴	ofub	97
+⁵	ofub	96
+⁶	ofub	95
+⁷	ofub	94
+⁸	ofub	93
+⁹	ofub	92
+⁰	ofub	91
+⁺	ofub	90
+⁻	ofub	89
+⁼	ofub	88
+⁽	ofub	87
+⁾	ofub	86
+ⁿ	ofub	85
+ˣ	ofub	84
+
+
+
+
+下标b	ofx	99
+₁	ofxb	100
+₂	ofxb	99
+₃	ofxb	98
+₄	ofxb	97
+₅	ofxb	96
+₆	ofxb	95
+₇	ofxb	94
+₈	ofxb	93
+₉	ofxb	92
+₀	ofxb	91
+₊	ofxb	90
+₋	ofxb	89
+₌	ofxb	88
+₍	ofxb	87
+₎	ofxb	86
+ₙ	ofxb	85
+ₓ	ofxb	84
+
+苏州v	ofs	99
+〡	ofsv	100
+〢	ofsv	99
+〣	ofsv	98
+〤	ofsv	97
+〥	ofsv	96
+〦	ofsv	95
+〧	ofsv	94
+〨	ofsv	93
+〩	ofsv	92
+〸	ofsv	91
+〹	ofsv	90
+〺	ofsv	89
+
+
+～	op
+‰	oq
+……	os
+
+
+＆	ota	100
+α	ota	99
+%	otb	100
+β	otb	99
+©	otb	98
+℃	otc
+°	otd	100
+＝	otd	99
+≠	otd	98
+≥	otd	97
+＞	otd	96
+の	ote	100
+ε	ote	99
+′	otf	100
+Φ	otf	99
+□	otf	98
+■	otf	97
+√	otg	100
+γ	otg	99
+℉	oth	100
+※	oth	99
+¤	oth	98
+×	oti	100
+÷	oti	99
+＋	otj	100
+－	otj	99
+m³	otl	100
+″	otm	100
+μ	otm	99
+﹩	otm	98
+￠	otm	97
+♂	otn	100
+♀	otn	99
+№	otn	98
+€	oto	100
+Ω	oto	99
+㎡	otp	100
+π	otp	99
+‰	otq
+¥	otr	100
+￥	otr	99
+∴	ots	100
+∵	ots	99
+△	ots	98
+▲	ots	97
+฿	ott	100
+℡	ott	99
+™	otu	96
+§	otv	100
+®	otv	99
+㈱	otv	98
+∞	otw	100
+卍	otw	99
+卐	otw	98
+≤	otx	96
+＜	otx	95
+☆	otx	94
+★	otx	93
+£	oty	99
+≈	oty	98
+○	oty	97
+●	oty	96
+
+
+
+？	ow
+
+
+
+
+
+
+①	oyy	90
+②	oye	90
+③	oys	90
+④	oyd	90
+⑤	oyw	90
+⑥	oyl	90
+⑦	oyq	90
+⑧	oyb	90
+⑨	oyj	90
+⑩	oyu	90
+Ⅰ	oyy	30
+Ⅱ	oye	30
+Ⅲ	oys	30
+Ⅳ	oyd	30
+Ⅴ	oyw	30
+Ⅵ	oyl	30
+Ⅶ	oyq	30
+Ⅷ	oyb	30
+Ⅸ	oyj	30
+Ⅹ	oyu	30
+
+
+
+“	oz
+
+
+
+
+
+
+
+# LaTeX
+
+
+!	;clam
+$	;dollar
+%	;percent
+&	;ampersand
+&	;and
+(	;lparen
+)	;rparen
++	;plus
+,	;comma
+.	;period
+/	;slash
+:	;colon
+
+<	;less
+=	;equal
+>	;greater
+?	;question
+@	;atsign
+[	;lbrack
+;	;backslash
+]	;rbrack
+{	;lbrace
+|	;vert
+}	;rbrace
+£	;sterling
+¥	;yuan
+§	;section
+¬	;neg
+±	;pm
+¶	;paragraph
+·	;cdotp
+×	;times
+ð	;eth
+÷	;div
+Ƶ	;Zbar
+̀	;grave
+́	;acute
+̂	;hat
+̃	;tilde
+̄	;bar
+̅	;overbar
+̆	;breve
+̇	;dot
+̈	;ddot
+̉	;ovhook
+̊	;ocirc
+̌	;check
+̐	;candra
+̒	;oturnedcomma
+̕	;ocommatopright
+̚	;droang
+̰	;wideutilde
+̲	;underbar
+̸	;notaccent
+͍	;underleftrightarrow
+Α	;Alpha
+Β	;Beta
+Γ	;Gamma
+Δ	;Delta
+Ε	;Epsilon
+Ζ	;Zeta
+Η	;Eta
+Θ	;Theta
+Ι	;Iota
+Κ	;Kappa
+Λ	;Lambda
+Μ	;Mu
+Ν	;Nu
+Ξ	;Xi
+Ο	;Omicron
+Π	;Pi
+Ρ	;Rho
+Σ	;Sigma
+Τ	;Tau
+Υ	;Upsilon
+Φ	;Phi
+Χ	;Chi
+Ψ	;Psi
+Ω	;Omega
+α	;alpha
+β	;beta
+γ	;gamma
+δ	;delta
+ε	;varepsilon
+ζ	;zeta
+η	;eta
+θ	;theta
+ι	;iota
+κ	;kappa
+λ	;lambda
+μ	;mu
+ν	;nu
+ξ	;xi
+ο	;omicron
+π	;pi
+ρ	;rho
+ς	;varsigma
+σ	;sigma
+τ	;tau
+υ	;upsilon
+φ	;varphi
+χ	;chi
+ψ	;psi
+ω	;omega
+ϑ	;vartheta
+ϕ	;phi
+ϖ	;varpi
+Ϝ	;upDigamma
+ϝ	;updigamma
+ϰ	;varkappa
+ϱ	;varrho
+ϴ	;varTheta
+ϵ	;epsilon
+϶	;upbackepsilon
+‐	;hyphen
+―	;horizbar
+‖	;Vert
+‗	;twolowline
+†	;dagger
+‡	;ddagger
+•	;smblkcircle
+‥	;enleadertwodots
+…	;unicodeellipsis
+′	;prime
+″	;dprime
+‴	;trprime
+‵	;backprime
+‶	;backdprime
+‷	;backtrprime
+‸	;caretinsert
+‼	;Exclam
+⁀	;tieconcat
+⁃	;hyphenbullet
+⁄	;fracslash
+⁇	;Question
+⁐	;closure
+⁗	;qprime
+€	;euro
+⃐	;leftharpoonaccent
+⃐	;overleftharpoon
+⃑	;rightharpoonaccent
+⃑	;overrightharpoon
+⃒	;vertoverlay
+⃖	;overleftarrow
+⃗	;overrightarrow
+⃗	;vec
+⃛	;dddot
+⃜	;ddddot
+⃝	;enclosecircle
+⃞	;enclosesquare
+⃟	;enclosediamond
+⃡	;overleftrightarrow
+⃤	;enclosetriangle
+⃧	;annuity
+⃨	;threeunderdot
+⃩	;widebridgeabove
+⃬	;underrightharpoondown
+⃭	;underleftharpoondown
+⃮	;underleftarrow
+⃯	;underrightarrow
+⃰	;asteraccent
+ℂ	;BbbC
+ℇ	;Eulerconst
+ℊ	;mscrg
+ℋ	;mscrH
+ℌ	;mfrakH
+ℍ	;BbbH
+ℎ	;Planckconst
+ℏ	;hslash
+ℐ	;mscrI
+ℑ	;Im
+ℒ	;mscrL
+ℓ	;ell
+ℕ	;BbbN
+℘	;wp
+ℙ	;BbbP
+ℚ	;BbbQ
+ℛ	;mscrR
+ℜ	;Re
+ℝ	;BbbR
+ℤ	;BbbZ
+℧	;mho
+ℨ	;mfrakZ
+℩	;turnediota
+Å	;Angstrom
+ℬ	;mscrB
+ℭ	;mfrakC
+ℯ	;mscre
+ℰ	;mscrE
+ℱ	;mscrF
+Ⅎ	;Finv
+ℳ	;mscrM
+ℴ	;mscro
+ℵ	;aleph
+ℶ	;beth
+ℷ	;gimel
+ℸ	;daleth
+ℼ	;Bbbpi
+ℽ	;Bbbgamma
+ℾ	;BbbGamma
+ℿ	;BbbPi
+⅀	;Bbbsum
+⅁	;Game
+⅂	;sansLturned
+⅃	;sansLmirrored
+⅄	;Yup
+ⅅ	;mitBbbD
+ⅆ	;mitBbbd
+ⅇ	;mitBbbe
+ⅈ	;mitBbbi
+ⅉ	;mitBbbj
+⅊	;PropertyLine
+⅋	;upand
+←	;<-
+←	;leftarrow
+↑	;uparrow
+→	;->
+→	;to
+→	;rightarrow
+↓	;downarrow
+↔	;leftrightarrow
+↕	;updownarrow
+↖	;nwarrow
+↗	;nearrow
+↘	;searrow
+↙	;swarrow
+↚	;nleftarrow
+↛	;nrightarrow
+↜	;leftwavearrow
+↝	;rightwavearrow
+↞	;twoheadleftarrow
+↟	;twoheaduparrow
+↠	;twoheadrightarrow
+↡	;twoheaddownarrow
+↢	;leftarrowtail
+↣	;rightarrowtail
+↤	;mapsfrom
+↥	;mapsup
+↦	;mapsto
+↧	;mapsdown
+↨	;updownarrowbar
+↩	;hookleftarrow
+↪	;hookrightarrow
+↫	;looparrowleft
+↬	;looparrowright
+↭	;leftrightsquigarrow
+↮	;nleftrightarrow
+↯	;downzigzagarrow
+↰	;Lsh
+↱	;Rsh
+↲	;Ldsh
+↳	;Rdsh
+↴	;linefeed
+↵	;carriagereturn
+↶	;curvearrowleft
+↷	;curvearrowright
+↸	;barovernorthwestarrow
+↹	;barleftarrowrightarrowbar
+↺	;acwopencirclearrow
+↻	;cwopencirclearrow
+↼	;leftharpoonup
+↽	;leftharpoondown
+↾	;upharpoonright
+↿	;upharpoonleft
+⇀	;rightharpoonup
+⇁	;rightharpoondown
+⇂	;downharpoonright
+⇃	;downharpoonleft
+⇄	;rightleftarrows
+⇅	;updownarrows
+⇆	;leftrightarrows
+⇇	;leftleftarrows
+⇈	;upuparrows
+⇉	;rightrightarrows
+⇊	;downdownarrows
+⇋	;leftrightharpoons
+⇌	;rightleftharpoons
+⇍	;nLeftarrow
+⇎	;nLeftrightarrow
+⇏	;nRightarrow
+⇐	;Leftarrow
+⇑	;Uparrow
+⇒	;To
+⇒	;Rightarrow
+⇓	;Downarrow
+⇔	;Leftrightarrow
+⇕	;Updownarrow
+⇖	;Nwarrow
+⇗	;Nearrow
+⇘	;Searrow
+⇙	;Swarrow
+⇚	;Lleftarrow
+⇛	;TO
+⇛	;Rrightarrow
+⇜	;leftsquigarrow
+⇝	;rightsquigarrow
+⇞	;nHuparrow
+⇟	;nHdownarrow
+⇠	;leftdasharrow
+⇡	;updasharrow
+⇢	;rightdasharrow
+⇣	;downdasharrow
+⇤	;barleftarrow
+⇥	;rightarrowbar
+⇦	;leftwhitearrow
+⇧	;upwhitearrow
+⇨	;rightwhitearrow
+⇩	;downwhitearrow
+⇪	;whitearrowupfrombar
+⇴	;circleonrightarrow
+⇵	;downuparrows
+⇶	;rightthreearrows
+⇷	;nvleftarrow
+⇸	;nvrightarrow
+⇹	;nvleftrightarrow
+⇺	;nVleftarrow
+⇻	;nVrightarrow
+⇼	;nVleftrightarrow
+⇽	;leftarrowtriangle
+⇾	;rightarrowtriangle
+⇿	;leftrightarrowtriangle
+∀	;forall
+∁	;complement
+∂	;partial
+∃	;exists
+∄	;nexists
+∅	;varnothing
+∆	;increment
+∇	;nabla
+∈	;in
+∉	;notin
+∊	;smallin
+∋	;ni
+∌	;nni
+∍	;smallni
+∎	;QED
+∏	;prod
+∐	;coprod
+∑	;sum
+−	;minus
+∓	;mp
+∔	;dotplus
+∕	;divslash
+∖	;smallsetminus
+∗	;ast
+∘	;vysmwhtcircle
+∙	;vysmblkcircle
+√	;sqrt
+√	;surd
+∛	;cuberoot
+∜	;fourthroot
+∝	;propto
+∞	;infty
+∟	;rightangle
+∠	;angle
+∡	;measuredangle
+∢	;sphericalangle
+∣	;mid
+∤	;nmid
+∥	;parallel
+∦	;nparallel
+∧	;wedge
+∨	;vee
+∩	;cap
+∪	;cup
+∫	;int
+∬	;iint
+∭	;iiint
+∮	;oint
+∯	;oiint
+∰	;oiiint
+∱	;intclockwise
+∲	;varointclockwise
+∳	;ointctrclockwise
+∴	;therefore
+∵	;because
+∶	;ratio
+∷	;Colon
+∸	;dotminus
+∹	;dashcolon
+∺	;dotsminusdots
+∻	;kernelcontraction
+∼	;sim
+∽	;backsim
+∾	;invlazys
+∿	;sinewave
+≀	;wr
+≁	;nsim
+≂	;eqsim
+≃	;simeq
+≄	;nsime
+≃	;sime
+≄	;nsimeq
+≅	;cong
+≆	;simneqq
+≇	;ncong
+≈	;approx
+≉	;napprox
+≊	;approxeq
+≋	;approxident
+≌	;backcong
+≍	;asymp
+≎	;Bumpeq
+≏	;bumpeq
+≐	;doteq
+≑	;Doteq
+≒	;fallingdotseq
+≓	;risingdotseq
+≔	;coloneq
+≕	;eqcolon
+≖	;eqcirc
+≗	;circeq
+≘	;arceq
+≙	;wedgeq
+≚	;veeeq
+≛	;stareq
+≜	;triangleq
+≝	;eqdef
+≞	;measeq
+≟	;questeq
+≠	;ne
+≡	;equiv
+≢	;nequiv
+≣	;Equiv
+≤	;leq
+≥	;geq
+≦	;leqq
+≧	;geqq
+≨	;lneqq
+≩	;gneqq
+≪	;ll
+≫	;gg
+≬	;between
+≭	;nasymp
+≮	;nless
+≯	;ngtr
+≰	;nleq
+≱	;ngeq
+≲	;lesssim
+≳	;gtrsim
+≴	;nlesssim
+≵	;ngtrsim
+≶	;lessgtr
+≷	;gtrless
+≸	;nlessgtr
+≹	;ngtrless
+≺	;prec
+≻	;succ
+≼	;preccurlyeq
+≽	;succcurlyeq
+≾	;precsim
+≿	;succsim
+⊀	;nprec
+⊁	;nsucc
+⊂	;subset
+⊃	;supset
+⊄	;nsubset
+⊅	;nsupset
+⊆	;subseteq
+⊇	;supseteq
+⊈	;nsubseteq
+⊉	;nsupseteq
+⊊	;subsetneq
+⊋	;supsetneq
+⊌	;cupleftarrow
+⊍	;cupdot
+⊎	;uplus
+⊏	;sqsubset
+⊐	;sqsupset
+⊑	;sqsubseteq
+⊒	;sqsupseteq
+⊓	;sqcap
+⊔	;sqcup
+⊕	;oplus
+⊖	;ominus
+⊗	;otimes
+⊘	;oslash
+⊙	;odot
+⊚	;circledcirc
+⊛	;circledast
+⊜	;circledequal
+⊝	;circleddash
+⊞	;boxplus
+⊟	;boxminus
+⊠	;boxtimes
+⊡	;boxdot
+⊢	;vdash
+⊣	;dashv
+⊤	;top
+⊥	;bot
+⊦	;assert
+⊧	;models
+⊨	;vDash
+⊩	;Vdash
+⊪	;Vvdash
+⊫	;VDash
+⊬	;nvdash
+⊭	;nvDash
+⊮	;nVdash
+⊯	;nVDash
+⊰	;prurel
+⊱	;scurel
+⊲	;vartriangleleft
+⊳	;vartriangleright
+⊴	;trianglelefteq
+⊵	;trianglerighteq
+⊶	;origof
+⊷	;imageof
+⊸	;multimap
+⊹	;hermitmatrix
+⊺	;intercal
+⊻	;veebar
+⊼	;barwedge
+⊽	;barvee
+⊾	;measuredrightangle
+⊿	;varlrtriangle
+⋀	;bigwedge
+⋁	;bigvee
+⋂	;bigcap
+⋃	;bigcup
+⋄	;smwhtdiamond
+⋅	;cdot
+⋆	;star
+⋇	;divideontimes
+⋈	;bowtie
+⋉	;ltimes
+⋊	;rtimes
+⋋	;leftthreetimes
+⋌	;rightthreetimes
+⋍	;backsimeq
+⋎	;curlyvee
+⋏	;curlywedge
+⋐	;Subset
+⋑	;Supset
+⋒	;Cap
+⋓	;Cup
+⋔	;pitchfork
+⋕	;equalparallel
+⋖	;lessdot
+⋗	;gtrdot
+⋘	;lll
+⋙	;ggg
+⋚	;lesseqgtr
+⋛	;gtreqless
+⋜	;eqless
+⋝	;eqgtr
+⋞	;curlyeqprec
+⋟	;curlyeqsucc
+⋠	;npreccurlyeq
+⋡	;nsucccurlyeq
+⋢	;nsqsubseteq
+⋣	;nsqsupseteq
+⋤	;sqsubsetneq
+⋥	;sqsupsetneq
+⋦	;lnsim
+⋧	;gnsim
+⋨	;precnsim
+⋩	;succnsim
+⋪	;nvartriangleleft
+⋫	;nvartriangleright
+⋬	;ntrianglelefteq
+⋭	;ntrianglerighteq
+…	;ldots
+⋮	;vdots
+⋯	;unicodecdots
+⋯	;cdots
+⋰	;adots
+⋱	;ddots
+⋲	;disin
+⋳	;varisins
+⋴	;isins
+⋵	;isindot
+⋶	;varisinobar
+⋷	;isinobar
+⋸	;isinvb
+⋹	;isinE
+⋺	;nisd
+⋻	;varnis
+⋼	;nis
+⋽	;varniobar
+⋾	;niobar
+⋿	;bagmember
+⌀	;diameter
+⌂	;house
+⌅	;varbarwedge
+⌆	;vardoublebarwedge
+⌈	;lceil
+⌉	;rceil
+⌊	;lfloor
+⌋	;rfloor
+⌐	;invnot
+⌑	;sqlozenge
+⌒	;profline
+⌓	;profsurf
+⌗	;viewdata
+⌙	;turnednot
+⌜	;ulcorner
+⌝	;urcorner
+⌞	;llcorner
+⌟	;lrcorner
+⌠	;inttop
+⌡	;intbottom
+⌢	;frown
+⌣	;smile
+⌬	;varhexagonlrbonds
+⌲	;conictaper
+⌶	;topbot
+⌽	;obar
+⌿	;APLnotslash
+⍀	;APLnotbackslash
+⍓	;APLboxupcaret
+⍰	;APLboxquestion
+⍼	;rangledownzigzagarrow
+⎔	;hexagon
+⎛	;lparenuend
+⎜	;lparenextender
+⎝	;lparenlend
+⎞	;rparenuend
+⎟	;rparenextender
+⎠	;rparenlend
+⎡	;lbrackuend
+⎢	;lbrackextender
+⎣	;lbracklend
+⎤	;rbrackuend
+⎥	;rbrackextender
+⎦	;rbracklend
+⎧	;lbraceuend
+⎨	;lbracemid
+⎩	;lbracelend
+⎪	;vbraceextender
+⎫	;rbraceuend
+⎬	;rbracemid
+⎭	;rbracelend
+⎮	;intextender
+⎯	;harrowextender
+⎰	;lmoustache
+⎱	;rmoustache
+⎲	;sumtop
+⎳	;sumbottom
+⎴	;overbracket
+⎵	;underbracket
+⎶	;bbrktbrk
+⎷	;sqrtbottom
+⎸	;lvboxline
+⎹	;rvboxline
+⏎	;varcarriagereturn
+⏜	;overparen
+⏝	;underparen
+⏞	;overbrace
+⏟	;underbrace
+⏠	;obrbrak
+⏡	;ubrbrak
+⏢	;trapezium
+⏣	;benzenr
+⏤	;strns
+⏥	;fltns
+⏦	;accurrent
+⏧	;elinters
+␢	;blanksymbol
+␣	;visiblespace
+┆	;bdtriplevdash
+▀	;blockuphalf
+▄	;blocklowhalf
+█	;blockfull
+▌	;blocklefthalf
+▐	;blockrighthalf
+░	;blockqtrshaded
+▒	;blockhalfshaded
+▓	;blockthreeqtrshaded
+■	;mdlgblksquare
+□	;mdlgwhtsquare
+▢	;squoval
+▣	;blackinwhitesquare
+▤	;squarehfill
+▥	;squarevfill
+▦	;squarehvfill
+▧	;squarenwsefill
+▨	;squareneswfill
+▩	;squarecrossfill
+▪	;smblksquare
+▫	;smwhtsquare
+▬	;hrectangleblack
+▭	;hrectangle
+▮	;vrectangleblack
+▯	;vrectangle
+▰	;parallelogramblack
+▱	;parallelogram
+▲	;bigblacktriangleup
+△	;bigtriangleup
+▴	;blacktriangle
+▵	;vartriangle
+▶	;blacktriangleright
+▷	;triangleright
+▸	;smallblacktriangleright
+▹	;smalltriangleright
+►	;blackpointerright
+▻	;whitepointerright
+▼	;bigblacktriangledown
+▽	;bigtriangledown
+▾	;blacktriangledown
+▿	;triangledown
+◀	;blacktriangleleft
+◁	;triangleleft
+◂	;smallblacktriangleleft
+◃	;smalltriangleleft
+◄	;blackpointerleft
+◅	;whitepointerleft
+◆	;mdlgblkdiamond
+◇	;mdlgwhtdiamond
+◈	;blackinwhitediamond
+◉	;fisheye
+◊	;mdlgwhtlozenge
+○	;mdlgwhtcircle
+◌	;dottedcircle
+◍	;circlevertfill
+◎	;bullseye
+●	;mdlgblkcircle
+◐	;circlelefthalfblack
+◑	;circlerighthalfblack
+◒	;circlebottomhalfblack
+◓	;circletophalfblack
+◔	;circleurquadblack
+◕	;blackcircleulquadwhite
+◖	;blacklefthalfcircle
+◗	;blackrighthalfcircle
+◘	;inversebullet
+◙	;inversewhitecircle
+◚	;invwhiteupperhalfcircle
+◛	;invwhitelowerhalfcircle
+◜	;ularc
+◝	;urarc
+◞	;lrarc
+◟	;llarc
+◠	;topsemicircle
+◡	;botsemicircle
+◢	;lrblacktriangle
+◣	;llblacktriangle
+◤	;ulblacktriangle
+◥	;urblacktriangle
+◦	;smwhtcircle
+◧	;squareleftblack
+◨	;squarerightblack
+◩	;squareulblack
+◪	;squarelrblack
+◫	;boxbar
+◬	;trianglecdot
+◭	;triangleleftblack
+◮	;trianglerightblack
+◯	;lgwhtcircle
+◰	;squareulquad
+◱	;squarellquad
+◲	;squarelrquad
+◳	;squareurquad
+◴	;circleulquad
+◵	;circlellquad
+◶	;circlelrquad
+◷	;circleurquad
+◸	;ultriangle
+◹	;urtriangle
+◺	;lltriangle
+◻	;mdwhtsquare
+◼	;mdblksquare
+◽	;mdsmwhtsquare
+◾	;mdsmblksquare
+◿	;lrtriangle
+★	;bigstar
+☆	;bigwhitestar
+☉	;astrosun
+☡	;danger
+☻	;blacksmiley
+☼	;sun
+☽	;rightmoon
+☾	;leftmoon
+♀	;female
+♂	;male
+♠	;spadesuit
+♡	;heartsuit
+♢	;diamondsuit
+♣	;clubsuit
+♤	;varspadesuit
+♥	;varheartsuit
+♦	;vardiamondsuit
+♧	;varclubsuit
+♩	;quarternote
+♪	;eighthnote
+♫	;twonotes
+♭	;flat
+♮	;natural
+♯	;sharp
+♾	;acidfree
+⚀	;dicei
+⚁	;diceii
+⚂	;diceiii
+⚃	;diceiv
+⚄	;dicev
+⚅	;dicevi
+⚆	;circledrightdot
+⚇	;circledtwodots
+⚈	;blackcircledrightdot
+⚉	;blackcircledtwodots
+⚥	;Hermaphrodite
+⚪	;mdwhtcircle
+⚫	;mdblkcircle
+⚬	;mdsmwhtcircle
+⚲	;neuter
+✓	;checkmark
+✠	;maltese
+✪	;circledstar
+✶	;varstar
+✽	;dingasterisk
+❲	;lbrbrak
+❳	;rbrbrak
+➛	;draftingarrow
+⟀	;threedangle
+⟁	;whiteinwhitetriangle
+⟂	;perp
+⟃	;subsetcirc
+⟄	;supsetcirc
+⟅	;lbag
+⟆	;rbag
+⟇	;veedot
+⟈	;bsolhsub
+⟉	;suphsol
+⟌	;longdivision
+⟐	;diamondcdot
+⟑	;wedgedot
+⟒	;upin
+⟓	;pullback
+⟔	;pushout
+⟕	;leftouterjoin
+⟖	;rightouterjoin
+⟗	;fullouterjoin
+⟘	;bigbot
+⟙	;bigtop
+⟚	;DashVDash
+⟛	;dashVdash
+⟜	;multimapinv
+⟝	;vlongdash
+⟞	;longdashv
+⟟	;cirbot
+⟠	;lozengeminus
+⟡	;concavediamond
+⟢	;concavediamondtickleft
+⟣	;concavediamondtickright
+⟤	;whitesquaretickleft
+⟥	;whitesquaretickright
+⟦	;lBrack
+⟧	;rBrack
+⟨	;langle
+⟩	;rangle
+⟪	;lAngle
+⟫	;rAngle
+⟬	;Lbrbrak
+⟭	;Rbrbrak
+⟮	;lgroup
+⟯	;rgroup
+⟰	;UUparrow
+⟱	;DDownarrow
+⟲	;acwgapcirclearrow
+⟳	;cwgapcirclearrow
+⟴	;rightarrowonoplus
+⟵	;longleftarrow
+⟶	;longrightarrow
+⟷	;longleftrightarrow
+⟸	;Longleftarrow
+⟹	;Longrightarrow
+⟺	;Longleftrightarrow
+⟻	;longmapsfrom
+⟼	;longmapsto
+⟽	;Longmapsfrom
+⟾	;Longmapsto
+⟿	;longrightsquigarrow
+⤀	;nvtwoheadrightarrow
+⤁	;nVtwoheadrightarrow
+⤂	;nvLeftarrow
+⤃	;nvRightarrow
+⤄	;nvLeftrightarrow
+⤅	;twoheadmapsto
+⤆	;Mapsfrom
+⤇	;Mapsto
+⤈	;downarrowbarred
+⤉	;uparrowbarred
+⤊	;Uuparrow
+⤋	;Ddownarrow
+⤌	;leftbkarrow
+⤍	;rightbkarrow
+⤎	;leftdbkarrow
+⤏	;dbkarrow
+⤐	;drbkarrow
+⤑	;rightdotarrow
+⤒	;baruparrow
+⤓	;downarrowbar
+⤔	;nvrightarrowtail
+⤕	;nVrightarrowtail
+⤖	;twoheadrightarrowtail
+⤗	;nvtwoheadrightarrowtail
+⤘	;nVtwoheadrightarrowtail
+⤙	;lefttail
+⤚	;righttail
+⤛	;leftdbltail
+⤜	;rightdbltail
+⤝	;diamondleftarrow
+⤞	;rightarrowdiamond
+⤟	;diamondleftarrowbar
+⤠	;barrightarrowdiamond
+⤡	;nwsearrow
+⤢	;neswarrow
+⤣	;hknwarrow
+⤤	;hknearrow
+⤥	;hksearrow
+⤦	;hkswarrow
+⤧	;tona
+⤨	;toea
+⤩	;tosa
+⤪	;towa
+⤫	;rdiagovfdiag
+⤬	;fdiagovrdiag
+⤭	;seovnearrow
+⤮	;neovsearrow
+⤯	;fdiagovnearrow
+⤰	;rdiagovsearrow
+⤱	;neovnwarrow
+⤲	;nwovnearrow
+⤳	;rightcurvedarrow
+⤴	;uprightcurvearrow
+⤵	;downrightcurvedarrow
+⤶	;leftdowncurvedarrow
+⤷	;rightdowncurvedarrow
+⤸	;cwrightarcarrow
+⤹	;acwleftarcarrow
+⤺	;acwoverarcarrow
+⤻	;acwunderarcarrow
+⤼	;curvearrowrightminus
+⤽	;curvearrowleftplus
+⤾	;cwundercurvearrow
+⤿	;ccwundercurvearrow
+⥀	;acwcirclearrow
+⥁	;cwcirclearrow
+⥂	;rightarrowshortleftarrow
+⥃	;leftarrowshortrightarrow
+⥄	;shortrightarrowleftarrow
+⥅	;rightarrowplus
+⥆	;leftarrowplus
+⥇	;rightarrowx
+⥈	;leftrightarrowcircle
+⥉	;twoheaduparrowcircle
+⥊	;leftrightharpoonupdown
+⥋	;leftrightharpoondownup
+⥌	;updownharpoonrightleft
+⥍	;updownharpoonleftright
+⥎	;leftrightharpoonupup
+⥏	;updownharpoonrightright
+⥐	;leftrightharpoondowndown
+⥑	;updownharpoonleftleft
+⥒	;barleftharpoonup
+⥓	;rightharpoonupbar
+⥔	;barupharpoonright
+⥕	;downharpoonrightbar
+⥖	;barleftharpoondown
+⥗	;rightharpoondownbar
+⥘	;barupharpoonleft
+⥙	;downharpoonleftbar
+⥚	;leftharpoonupbar
+⥛	;barrightharpoonup
+⥜	;upharpoonrightbar
+⥝	;bardownharpoonright
+⥞	;leftharpoondownbar
+⥟	;barrightharpoondown
+⥠	;upharpoonleftbar
+⥡	;bardownharpoonleft
+⥢	;leftharpoonsupdown
+⥣	;upharpoonsleftright
+⥤	;rightharpoonsupdown
+⥥	;downharpoonsleftright
+⥦	;leftrightharpoonsup
+⥧	;leftrightharpoonsdown
+⥨	;rightleftharpoonsup
+⥩	;rightleftharpoonsdown
+⥪	;leftharpoonupdash
+⥫	;dashleftharpoondown
+⥬	;rightharpoonupdash
+⥭	;dashrightharpoondown
+⥮	;updownharpoonsleftright
+⥯	;downupharpoonsleftright
+⥰	;rightimply
+⥱	;equalrightarrow
+⥲	;similarrightarrow
+⥳	;leftarrowsimilar
+⥴	;rightarrowsimilar
+⥵	;rightarrowapprox
+⥶	;ltlarr
+⥷	;leftarrowless
+⥸	;gtrarr
+⥹	;subrarr
+⥺	;leftarrowsubset
+⥻	;suplarr
+⥼	;leftfishtail
+⥽	;rightfishtail
+⥾	;upfishtail
+⥿	;downfishtail
+⦀	;Vvert
+⦁	;mdsmblkcircle
+⦂	;typecolon
+⦃	;lBrace
+⦄	;rBrace
+⦅	;lParen
+⦆	;rParen
+⦇	;llparenthesis
+⦈	;rrparenthesis
+⦉	;llangle
+⦊	;rrangle
+⦋	;lbrackubar
+⦌	;rbrackubar
+⦍	;lbrackultick
+⦎	;rbracklrtick
+⦏	;lbracklltick
+⦐	;rbrackurtick
+⦑	;langledot
+⦒	;rangledot
+⦓	;lparenless
+⦔	;rparengtr
+⦕	;Lparengtr
+⦖	;Rparenless
+⦗	;lblkbrbrak
+⦘	;rblkbrbrak
+⦙	;fourvdots
+⦚	;vzigzag
+⦛	;measuredangleleft
+⦜	;rightanglesqr
+⦝	;rightanglemdot
+⦞	;angles
+⦟	;angdnr
+⦠	;gtlpar
+⦡	;sphericalangleup
+⦢	;turnangle
+⦣	;revangle
+⦤	;angleubar
+⦥	;revangleubar
+⦦	;wideangledown
+⦧	;wideangleup
+⦨	;measanglerutone
+⦩	;measanglelutonw
+⦪	;measanglerdtose
+⦫	;measangleldtosw
+⦬	;measangleurtone
+⦭	;measangleultonw
+⦮	;measangledrtose
+⦯	;measangledltosw
+⦰	;revemptyset
+⦱	;emptysetobar
+⦲	;emptysetocirc
+⦳	;emptysetoarr
+⦴	;emptysetoarrl
+⦵	;circlehbar
+⦶	;circledvert
+⦷	;circledparallel
+⦸	;obslash
+⦹	;operp
+⦺	;obot
+⦻	;olcross
+⦼	;odotslashdot
+⦽	;uparrowoncircle
+⦾	;circledwhitebullet
+⦿	;circledbullet
+⧀	;olessthan
+⧁	;ogreaterthan
+⧂	;cirscir
+⧃	;cirE
+⧄	;boxdiag
+⧅	;boxbslash
+⧆	;boxast
+⧇	;boxcircle
+⧈	;boxbox
+⧉	;boxonbox
+⧊	;triangleodot
+⧋	;triangleubar
+⧌	;triangles
+⧍	;triangleserifs
+⧎	;rtriltri
+⧏	;ltrivb
+⧐	;vbrtri
+⧑	;lfbowtie
+⧒	;rfbowtie
+⧓	;fbowtie
+⧔	;lftimes
+⧕	;rftimes
+⧖	;hourglass
+⧗	;blackhourglass
+⧘	;lvzigzag
+⧙	;rvzigzag
+⧚	;Lvzigzag
+⧛	;Rvzigzag
+⧜	;iinfin
+⧝	;tieinfty
+⧞	;nvinfty
+⧟	;dualmap
+⧠	;laplac
+⧡	;lrtriangleeq
+⧢	;shuffle
+⧣	;eparsl
+⧤	;smeparsl
+⧥	;eqvparsl
+⧦	;gleichstark
+⧧	;thermod
+⧨	;downtriangleleftblack
+⧩	;downtrianglerightblack
+⧪	;blackdiamonddownarrow
+⧫	;mdlgblklozenge
+⧬	;circledownarrow
+⧭	;blackcircledownarrow
+⧮	;errbarsquare
+⧯	;errbarblacksquare
+⧰	;errbardiamond
+⧱	;errbarblackdiamond
+⧲	;errbarcircle
+⧳	;errbarblackcircle
+⧴	;ruledelayed
+⧵	;setminus
+⧶	;dsol
+⧷	;rsolbar
+⧸	;xsol
+⧹	;xbsol
+⧺	;doubleplus
+⧻	;tripleplus
+⧼	;lcurvyangle
+⧽	;rcurvyangle
+⧾	;tplus
+⧿	;tminus
+⨀	;bigodot
+⨁	;bigoplus
+⨂	;bigotimes
+⨃	;bigcupdot
+⨄	;biguplus
+⨅	;bigsqcap
+⨆	;bigsqcup
+⨇	;conjquant
+⨈	;disjquant
+⨉	;bigtimes
+⨊	;modtwosum
+⨋	;sumint
+⨌	;iiiint
+⨍	;intbar
+⨎	;intBar
+⨏	;fint
+⨐	;cirfnint
+⨑	;awint
+⨒	;rppolint
+⨓	;scpolint
+⨔	;npolint
+⨕	;pointint
+⨖	;sqint
+⨗	;intlarhk
+⨘	;intx
+⨙	;intcap
+⨚	;intcup
+⨛	;upint
+⨜	;lowint
+⨝	;Join
+⨞	;bigtriangleleft
+⨟	;zcmp
+⨠	;zpipe
+⨡	;zproject
+⨢	;ringplus
+⨣	;plushat
+⨤	;simplus
+⨥	;plusdot
+⨦	;plussim
+⨧	;plussubtwo
+⨨	;plustrif
+⨩	;commaminus
+⨪	;minusdot
+⨫	;minusfdots
+⨬	;minusrdots
+⨭	;opluslhrim
+⨮	;oplusrhrim
+⨯	;vectimes
+⨰	;dottimes
+⨱	;timesbar
+⨲	;btimes
+⨳	;smashtimes
+⨴	;otimeslhrim
+⨵	;otimesrhrim
+⨶	;otimeshat
+⨷	;Otimes
+⨸	;odiv
+⨹	;triangleplus
+⨺	;triangleminus
+⨻	;triangletimes
+⨼	;intprod
+⨽	;intprodr
+⨾	;fcmp
+⨿	;amalg
+⩀	;capdot
+⩁	;uminus
+⩂	;barcup
+⩃	;barcap
+⩄	;capwedge
+⩅	;cupvee
+⩆	;cupovercap
+⩇	;capovercup
+⩈	;cupbarcap
+⩉	;capbarcup
+⩊	;twocups
+⩋	;twocaps
+⩌	;closedvarcup
+⩍	;closedvarcap
+⩎	;Sqcap
+⩏	;Sqcup
+⩐	;closedvarcupsmashprod
+⩑	;wedgeodot
+⩒	;veeodot
+⩓	;Wedge
+⩔	;Vee
+⩕	;wedgeonwedge
+⩖	;veeonvee
+⩗	;bigslopedvee
+⩘	;bigslopedwedge
+⩙	;veeonwedge
+⩚	;wedgemidvert
+⩛	;veemidvert
+⩜	;midbarwedge
+⩝	;midbarvee
+⩞	;doublebarwedge
+⩟	;wedgebar
+⩠	;wedgedoublebar
+⩡	;varveebar
+⩢	;doublebarvee
+⩣	;veedoublebar
+⩤	;dsub
+⩥	;rsub
+⩦	;eqdot
+⩧	;dotequiv
+⩨	;equivVert
+⩩	;equivVvert
+⩪	;dotsim
+⩫	;simrdots
+⩬	;simminussim
+⩭	;congdot
+⩮	;asteq
+⩯	;hatapprox
+⩰	;approxeqq
+⩱	;eqqplus
+⩲	;pluseqq
+⩳	;eqqsim
+⩴	;Coloneq
+⩵	;eqeq
+⩶	;eqeqeq
+⩷	;ddotseq
+⩸	;equivDD
+⩹	;ltcir
+⩺	;gtcir
+⩻	;ltquest
+⩼	;gtquest
+⩽	;leqslant
+⩾	;geqslant
+⩿	;lesdot
+⪀	;gesdot
+⪁	;lesdoto
+⪂	;gesdoto
+⪃	;lesdotor
+⪄	;gesdotol
+⪅	;lessapprox
+⪆	;gtrapprox
+⪇	;lneq
+⪈	;gneq
+⪉	;lnapprox
+⪊	;gnapprox
+⪋	;lesseqqgtr
+⪌	;gtreqqless
+⪍	;lsime
+⪎	;gsime
+⪏	;lsimg
+⪐	;gsiml
+⪑	;lgE
+⪒	;glE
+⪓	;lesges
+⪔	;gesles
+⪕	;eqslantless
+⪖	;eqslantgtr
+⪗	;elsdot
+⪘	;egsdot
+⪙	;eqqless
+⪚	;eqqgtr
+⪛	;eqqslantless
+⪜	;eqqslantgtr
+⪝	;simless
+⪞	;simgtr
+⪟	;simlE
+⪠	;simgE
+⪡	;Lt
+⪢	;Gt
+⪣	;partialmeetcontraction
+⪤	;glj
+⪥	;gla
+⪦	;ltcc
+⪧	;gtcc
+⪨	;lescc
+⪩	;gescc
+⪪	;smt
+⪫	;lat
+⪬	;smte
+⪭	;late
+⪮	;bumpeqq
+⪯	;preceq
+⪰	;succeq
+⪱	;precneq
+⪲	;succneq
+⪳	;preceqq
+⪴	;succeqq
+⪵	;precneqq
+⪶	;succneqq
+⪷	;precapprox
+⪸	;succapprox
+⪹	;precnapprox
+⪺	;succnapprox
+⪻	;Prec
+⪼	;Succ
+⪽	;subsetdot
+⪾	;supsetdot
+⪿	;subsetplus
+⫀	;supsetplus
+⫁	;submult
+⫂	;supmult
+⫃	;subedot
+⫄	;supedot
+⫅	;subseteqq
+⫆	;supseteqq
+⫇	;subsim
+⫈	;supsim
+⫉	;subsetapprox
+⫊	;supsetapprox
+⫋	;subsetneqq
+⫌	;supsetneqq
+⫍	;lsqhook
+⫎	;rsqhook
+⫏	;csub
+⫐	;csup
+⫑	;csube
+⫒	;csupe
+⫓	;subsup
+⫔	;supsub
+⫕	;subsub
+⫖	;supsup
+⫗	;suphsub
+⫘	;supdsub
+⫙	;forkv
+⫚	;topfork
+⫛	;mlcp
+⫝̸	;forks
+⫝	;forksnot
+⫞	;shortlefttack
+⫟	;shortdowntack
+⫠	;shortuptack
+⫡	;perps
+⫢	;vDdash
+⫣	;dashV
+⫤	;Dashv
+⫥	;DashV
+⫦	;varVdash
+⫧	;Barv
+⫨	;vBar
+⫩	;vBarv
+⫪	;barV
+⫫	;Vbar
+⫬	;Not
+⫭	;bNot
+⫮	;revnmid
+⫯	;cirmid
+⫰	;midcir
+⫱	;topcir
+⫲	;nhpar
+⫳	;parsim
+⫴	;interleave
+⫵	;nhVvert
+⫶	;threedotcolon
+⫷	;lllnest
+⫸	;gggnest
+⫹	;leqqslant
+⫺	;geqqslant
+⫻	;trslash
+⫼	;biginterleave
+⫽	;sslash
+⫾	;talloblong
+⫿	;bigtalloblong
+⬒	;squaretopblack
+⬓	;squarebotblack
+⬔	;squareurblack
+⬕	;squarellblack
+⬖	;diamondleftblack
+⬗	;diamondrightblack
+⬘	;diamondtopblack
+⬙	;diamondbotblack
+⬚	;dottedsquare
+⬛	;lgblksquare
+⬜	;lgwhtsquare
+⬝	;vysmblksquare
+⬞	;vysmwhtsquare
+⬟	;pentagonblack
+⬠	;pentagon
+⬡	;varhexagon
+⬢	;varhexagonblack
+⬣	;hexagonblack
+⬤	;lgblkcircle
+⬥	;mdblkdiamond
+⬦	;mdwhtdiamond
+⬧	;mdblklozenge
+⬨	;mdwhtlozenge
+⬩	;smblkdiamond
+⬪	;smblklozenge
+⬫	;smwhtlozenge
+⬬	;blkhorzoval
+⬭	;whthorzoval
+⬮	;blkvertoval
+⬯	;whtvertoval
+⬰	;circleonleftarrow
+⬱	;leftthreearrows
+⬲	;leftarrowonoplus
+⬳	;longleftsquigarrow
+⬴	;nvtwoheadleftarrow
+⬵	;nVtwoheadleftarrow
+⬶	;twoheadmapsfrom
+⬷	;twoheadleftdbkarrow
+⬸	;leftdotarrow
+⬹	;nvleftarrowtail
+⬺	;nVleftarrowtail
+⬻	;twoheadleftarrowtail
+⬼	;nvtwoheadleftarrowtail
+⬽	;nVtwoheadleftarrowtail
+⬾	;leftarrowx
+⬿	;leftcurvedarrow
+⭀	;equalleftarrow
+⭁	;bsimilarleftarrow
+⭂	;leftarrowbackapprox
+⭃	;rightarrowgtr
+⭄	;rightarrowsupset
+⭅	;LLeftarrow
+⭆	;RRightarrow
+⭇	;bsimilarrightarrow
+⭈	;rightarrowbackapprox
+⭉	;similarleftarrow
+⭊	;leftarrowapprox
+⭋	;leftarrowbsimilar
+⭌	;rightarrowbsimilar
+⭐	;medwhitestar
+⭑	;medblackstar
+⭒	;smwhitestar
+⭓	;rightpentagonblack
+⭔	;rightpentagon
+〒	;postalmark
+〰	;hzigzag
+𝐀	;mbfA
+𝐁	;mbfB
+𝐂	;mbfC
+𝐃	;mbfD
+𝐄	;mbfE
+𝐅	;mbfF
+𝐆	;mbfG
+𝐇	;mbfH
+𝐈	;mbfI
+𝐉	;mbfJ
+𝐊	;mbfK
+𝐋	;mbfL
+𝐌	;mbfM
+𝐍	;mbfN
+𝐎	;mbfO
+𝐏	;mbfP
+𝐐	;mbfQ
+𝐑	;mbfR
+𝐒	;mbfS
+𝐓	;mbfT
+𝐔	;mbfU
+𝐕	;mbfV
+𝐖	;mbfW
+𝐗	;mbfX
+𝐘	;mbfY
+𝐙	;mbfZ
+𝐚	;mbfa
+𝐛	;mbfb
+𝐜	;mbfc
+𝐝	;mbfd
+𝐞	;mbfe
+𝐟	;mbff
+𝐠	;mbfg
+𝐡	;mbfh
+𝐢	;mbfi
+𝐣	;mbfj
+𝐤	;mbfk
+𝐥	;mbfl
+𝐦	;mbfm
+𝐧	;mbfn
+𝐨	;mbfo
+𝐩	;mbfp
+𝐪	;mbfq
+𝐫	;mbfr
+𝐬	;mbfs
+𝐭	;mbft
+𝐮	;mbfu
+𝐯	;mbfv
+𝐰	;mbfw
+𝐱	;mbfx
+𝐲	;mbfy
+𝐳	;mbfz
+𝐴	;mitA
+𝐵	;mitB
+𝐶	;mitC
+𝐷	;mitD
+𝐸	;mitE
+𝐹	;mitF
+𝐺	;mitG
+𝐻	;mitH
+𝐼	;mitI
+𝐽	;mitJ
+𝐾	;mitK
+𝐿	;mitL
+𝑀	;mitM
+𝑁	;mitN
+𝑂	;mitO
+𝑃	;mitP
+𝑄	;mitQ
+𝑅	;mitR
+𝑆	;mitS
+𝑇	;mitT
+𝑈	;mitU
+𝑉	;mitV
+𝑊	;mitW
+𝑋	;mitX
+𝑌	;mitY
+𝑍	;mitZ
+𝑎	;mita
+𝑏	;mitb
+𝑐	;mitc
+𝑑	;mitd
+𝑒	;mite
+𝑓	;mitf
+𝑔	;mitg
+𝑖	;miti
+𝑗	;mitj
+𝑘	;mitk
+𝑙	;mitl
+𝑚	;mitm
+𝑛	;mitn
+𝑜	;mito
+𝑝	;mitp
+𝑞	;mitq
+𝑟	;mitr
+𝑠	;mits
+𝑡	;mitt
+𝑢	;mitu
+𝑣	;mitv
+𝑤	;mitw
+𝑥	;mitx
+𝑦	;mity
+𝑧	;mitz
+𝑨	;mbfitA
+𝑩	;mbfitB
+𝑪	;mbfitC
+𝑫	;mbfitD
+𝑬	;mbfitE
+𝑭	;mbfitF
+𝑮	;mbfitG
+𝑯	;mbfitH
+𝑰	;mbfitI
+𝑱	;mbfitJ
+𝑲	;mbfitK
+𝑳	;mbfitL
+𝑴	;mbfitM
+𝑵	;mbfitN
+𝑶	;mbfitO
+𝑷	;mbfitP
+𝑸	;mbfitQ
+𝑹	;mbfitR
+𝑺	;mbfitS
+𝑻	;mbfitT
+𝑼	;mbfitU
+𝑽	;mbfitV
+𝑾	;mbfitW
+𝑿	;mbfitX
+𝒀	;mbfitY
+𝒁	;mbfitZ
+𝒂	;mbfita
+𝒃	;mbfitb
+𝒄	;mbfitc
+𝒅	;mbfitd
+𝒆	;mbfite
+𝒇	;mbfitf
+𝒈	;mbfitg
+𝒉	;mbfith
+𝒊	;mbfiti
+𝒋	;mbfitj
+𝒌	;mbfitk
+𝒍	;mbfitl
+𝒎	;mbfitm
+𝒏	;mbfitn
+𝒐	;mbfito
+𝒑	;mbfitp
+𝒒	;mbfitq
+𝒓	;mbfitr
+𝒔	;mbfits
+𝒕	;mbfitt
+𝒖	;mbfitu
+𝒗	;mbfitv
+𝒘	;mbfitw
+𝒙	;mbfitx
+𝒚	;mbfity
+𝒛	;mbfitz
+𝒜	;mscrA
+𝒞	;mscrC
+𝒟	;mscrD
+𝒢	;mscrG
+𝒥	;mscrJ
+𝒦	;mscrK
+𝒩	;mscrN
+𝒪	;mscrO
+𝒫	;mscrP
+𝒬	;mscrQ
+𝒮	;mscrS
+𝒯	;mscrT
+𝒰	;mscrU
+𝒱	;mscrV
+𝒲	;mscrW
+𝒳	;mscrX
+𝒴	;mscrY
+𝒵	;mscrZ
+𝒶	;mscra
+𝒷	;mscrb
+𝒸	;mscrc
+𝒹	;mscrd
+𝒻	;mscrf
+𝒽	;mscrh
+𝒾	;mscri
+𝒿	;mscrj
+𝓀	;mscrk
+𝓁	;mscrl
+𝓂	;mscrm
+𝓃	;mscrn
+𝓅	;mscrp
+𝓆	;mscrq
+𝓇	;mscrr
+𝓈	;mscrs
+𝓉	;mscrt
+𝓊	;mscru
+𝓋	;mscrv
+𝓌	;mscrw
+𝓍	;mscrx
+𝓎	;mscry
+𝓏	;mscrz
+𝓐	;mbfscrA
+𝓑	;mbfscrB
+𝓒	;mbfscrC
+𝓓	;mbfscrD
+𝓔	;mbfscrE
+𝓕	;mbfscrF
+𝓖	;mbfscrG
+𝓗	;mbfscrH
+𝓘	;mbfscrI
+𝓙	;mbfscrJ
+𝓚	;mbfscrK
+𝓛	;mbfscrL
+𝓜	;mbfscrM
+𝓝	;mbfscrN
+𝓞	;mbfscrO
+𝓟	;mbfscrP
+𝓠	;mbfscrQ
+𝓡	;mbfscrR
+𝓢	;mbfscrS
+𝓣	;mbfscrT
+𝓤	;mbfscrU
+𝓥	;mbfscrV
+𝓦	;mbfscrW
+𝓧	;mbfscrX
+𝓨	;mbfscrY
+𝓩	;mbfscrZ
+𝓪	;mbfscra
+𝓫	;mbfscrb
+𝓬	;mbfscrc
+𝓭	;mbfscrd
+𝓮	;mbfscre
+𝓯	;mbfscrf
+𝓰	;mbfscrg
+𝓱	;mbfscrh
+𝓲	;mbfscri
+𝓳	;mbfscrj
+𝓴	;mbfscrk
+𝓵	;mbfscrl
+𝓶	;mbfscrm
+𝓷	;mbfscrn
+𝓸	;mbfscro
+𝓹	;mbfscrp
+𝓺	;mbfscrq
+𝓻	;mbfscrr
+𝓼	;mbfscrs
+𝓽	;mbfscrt
+𝓾	;mbfscru
+𝓿	;mbfscrv
+𝔀	;mbfscrw
+𝔁	;mbfscrx
+𝔂	;mbfscry
+𝔃	;mbfscrz
+𝔄	;mfrakA
+𝔅	;mfrakB
+𝔇	;mfrakD
+𝔈	;mfrakE
+𝔉	;mfrakF
+𝔊	;mfrakG
+𝔍	;mfrakJ
+𝔎	;mfrakK
+𝔏	;mfrakL
+𝔐	;mfrakM
+𝔑	;mfrakN
+𝔒	;mfrakO
+𝔓	;mfrakP
+𝔔	;mfrakQ
+𝔖	;mfrakS
+𝔗	;mfrakT
+𝔘	;mfrakU
+𝔙	;mfrakV
+𝔚	;mfrakW
+𝔛	;mfrakX
+𝔜	;mfrakY
+𝔞	;mfraka
+𝔟	;mfrakb
+𝔠	;mfrakc
+𝔡	;mfrakd
+𝔢	;mfrake
+𝔣	;mfrakf
+𝔤	;mfrakg
+𝔥	;mfrakh
+𝔦	;mfraki
+𝔧	;mfrakj
+𝔨	;mfrakk
+𝔩	;mfrakl
+𝔪	;mfrakm
+𝔫	;mfrakn
+𝔬	;mfrako
+𝔭	;mfrakp
+𝔮	;mfrakq
+𝔯	;mfrakr
+𝔰	;mfraks
+𝔱	;mfrakt
+𝔲	;mfraku
+𝔳	;mfrakv
+𝔴	;mfrakw
+𝔵	;mfrakx
+𝔶	;mfraky
+𝔷	;mfrakz
+𝔸	;BbbA
+𝔹	;BbbB
+𝔻	;BbbD
+𝔼	;BbbE
+𝔽	;BbbF
+𝔾	;BbbG
+𝕀	;BbbI
+𝕁	;BbbJ
+𝕂	;BbbK
+𝕃	;BbbL
+𝕄	;BbbM
+𝕆	;BbbO
+𝕊	;BbbS
+𝕋	;BbbT
+𝕌	;BbbU
+𝕍	;BbbV
+𝕎	;BbbW
+𝕏	;BbbX
+𝕐	;BbbY
+𝕒	;Bbba
+𝕓	;Bbbb
+𝕔	;Bbbc
+𝕕	;Bbbd
+𝕖	;Bbbe
+𝕗	;Bbbf
+𝕘	;Bbbg
+𝕙	;Bbbh
+𝕚	;Bbbi
+𝕛	;Bbbj
+𝕜	;Bbbk
+𝕝	;Bbbl
+𝕞	;Bbbm
+𝕟	;Bbbn
+𝕠	;Bbbo
+𝕡	;Bbbp
+𝕢	;Bbbq
+𝕣	;Bbbr
+𝕤	;Bbbs
+𝕥	;Bbbt
+𝕦	;Bbbu
+𝕧	;Bbbv
+𝕨	;Bbbw
+𝕩	;Bbbx
+𝕪	;Bbby
+𝕫	;Bbbz
+𝕬	;mbffrakA
+𝕭	;mbffrakB
+𝕮	;mbffrakC
+𝕯	;mbffrakD
+𝕰	;mbffrakE
+𝕱	;mbffrakF
+𝕲	;mbffrakG
+𝕳	;mbffrakH
+𝕴	;mbffrakI
+𝕵	;mbffrakJ
+𝕶	;mbffrakK
+𝕷	;mbffrakL
+𝕸	;mbffrakM
+𝕹	;mbffrakN
+𝕺	;mbffrakO
+𝕻	;mbffrakP
+𝕼	;mbffrakQ
+𝕽	;mbffrakR
+𝕾	;mbffrakS
+𝕿	;mbffrakT
+𝖀	;mbffrakU
+𝖁	;mbffrakV
+𝖂	;mbffrakW
+𝖃	;mbffrakX
+𝖄	;mbffrakY
+𝖅	;mbffrakZ
+𝖆	;mbffraka
+𝖇	;mbffrakb
+𝖈	;mbffrakc
+𝖉	;mbffrakd
+𝖊	;mbffrake
+𝖋	;mbffrakf
+𝖌	;mbffrakg
+𝖍	;mbffrakh
+𝖎	;mbffraki
+𝖏	;mbffrakj
+𝖐	;mbffrakk
+𝖑	;mbffrakl
+𝖒	;mbffrakm
+𝖓	;mbffrakn
+𝖔	;mbffrako
+𝖕	;mbffrakp
+𝖖	;mbffrakq
+𝖗	;mbffrakr
+𝖘	;mbffraks
+𝖙	;mbffrakt
+𝖚	;mbffraku
+𝖛	;mbffrakv
+𝖜	;mbffrakw
+𝖝	;mbffrakx
+𝖞	;mbffraky
+𝖟	;mbffrakz
+𝖠	;msansA
+𝖡	;msansB
+𝖢	;msansC
+𝖣	;msansD
+𝖤	;msansE
+𝖥	;msansF
+𝖦	;msansG
+𝖧	;msansH
+𝖨	;msansI
+𝖩	;msansJ
+𝖪	;msansK
+𝖫	;msansL
+𝖬	;msansM
+𝖭	;msansN
+𝖮	;msansO
+𝖯	;msansP
+𝖰	;msansQ
+𝖱	;msansR
+𝖲	;msansS
+𝖳	;msansT
+𝖴	;msansU
+𝖵	;msansV
+𝖶	;msansW
+𝖷	;msansX
+𝖸	;msansY
+𝖹	;msansZ
+𝖺	;msansa
+𝖻	;msansb
+𝖼	;msansc
+𝖽	;msansd
+𝖾	;msanse
+𝖿	;msansf
+𝗀	;msansg
+𝗁	;msansh
+𝗂	;msansi
+𝗃	;msansj
+𝗄	;msansk
+𝗅	;msansl
+𝗆	;msansm
+𝗇	;msansn
+𝗈	;msanso
+𝗉	;msansp
+𝗊	;msansq
+𝗋	;msansr
+𝗌	;msanss
+𝗍	;msanst
+𝗎	;msansu
+𝗏	;msansv
+𝗐	;msansw
+𝗑	;msansx
+𝗒	;msansy
+𝗓	;msansz
+𝗔	;mbfsansA
+𝗕	;mbfsansB
+𝗖	;mbfsansC
+𝗗	;mbfsansD
+𝗘	;mbfsansE
+𝗙	;mbfsansF
+𝗚	;mbfsansG
+𝗛	;mbfsansH
+𝗜	;mbfsansI
+𝗝	;mbfsansJ
+𝗞	;mbfsansK
+𝗟	;mbfsansL
+𝗠	;mbfsansM
+𝗡	;mbfsansN
+𝗢	;mbfsansO
+𝗣	;mbfsansP
+𝗤	;mbfsansQ
+𝗥	;mbfsansR
+𝗦	;mbfsansS
+𝗧	;mbfsansT
+𝗨	;mbfsansU
+𝗩	;mbfsansV
+𝗪	;mbfsansW
+𝗫	;mbfsansX
+𝗬	;mbfsansY
+𝗭	;mbfsansZ
+𝗮	;mbfsansa
+𝗯	;mbfsansb
+𝗰	;mbfsansc
+𝗱	;mbfsansd
+𝗲	;mbfsanse
+𝗳	;mbfsansf
+𝗴	;mbfsansg
+𝗵	;mbfsansh
+𝗶	;mbfsansi
+𝗷	;mbfsansj
+𝗸	;mbfsansk
+𝗹	;mbfsansl
+𝗺	;mbfsansm
+𝗻	;mbfsansn
+𝗼	;mbfsanso
+𝗽	;mbfsansp
+𝗾	;mbfsansq
+𝗿	;mbfsansr
+𝘀	;mbfsanss
+𝘁	;mbfsanst
+𝘂	;mbfsansu
+𝘃	;mbfsansv
+𝘄	;mbfsansw
+𝘅	;mbfsansx
+𝘆	;mbfsansy
+𝘇	;mbfsansz
+𝘈	;mitsansA
+𝘉	;mitsansB
+𝘊	;mitsansC
+𝘋	;mitsansD
+𝘌	;mitsansE
+𝘍	;mitsansF
+𝘎	;mitsansG
+𝘏	;mitsansH
+𝘐	;mitsansI
+𝘑	;mitsansJ
+𝘒	;mitsansK
+𝘓	;mitsansL
+𝘔	;mitsansM
+𝘕	;mitsansN
+𝘖	;mitsansO
+𝘗	;mitsansP
+𝘘	;mitsansQ
+𝘙	;mitsansR
+𝘚	;mitsansS
+𝘛	;mitsansT
+𝘜	;mitsansU
+𝘝	;mitsansV
+𝘞	;mitsansW
+𝘟	;mitsansX
+𝘠	;mitsansY
+𝘡	;mitsansZ
+𝘢	;mitsansa
+𝘣	;mitsansb
+𝘤	;mitsansc
+𝘥	;mitsansd
+𝘦	;mitsanse
+𝘧	;mitsansf
+𝘨	;mitsansg
+𝘩	;mitsansh
+𝘪	;mitsansi
+𝘫	;mitsansj
+𝘬	;mitsansk
+𝘭	;mitsansl
+𝘮	;mitsansm
+𝘯	;mitsansn
+𝘰	;mitsanso
+𝘱	;mitsansp
+𝘲	;mitsansq
+𝘳	;mitsansr
+𝘴	;mitsanss
+𝘵	;mitsanst
+𝘶	;mitsansu
+𝘷	;mitsansv
+𝘸	;mitsansw
+𝘹	;mitsansx
+𝘺	;mitsansy
+𝘻	;mitsansz
+𝘼	;mbfitsansA
+𝘽	;mbfitsansB
+𝘾	;mbfitsansC
+𝘿	;mbfitsansD
+𝙀	;mbfitsansE
+𝙁	;mbfitsansF
+𝙂	;mbfitsansG
+𝙃	;mbfitsansH
+𝙄	;mbfitsansI
+𝙅	;mbfitsansJ
+𝙆	;mbfitsansK
+𝙇	;mbfitsansL
+𝙈	;mbfitsansM
+𝙉	;mbfitsansN
+𝙊	;mbfitsansO
+𝙋	;mbfitsansP
+𝙌	;mbfitsansQ
+𝙍	;mbfitsansR
+𝙎	;mbfitsansS
+𝙏	;mbfitsansT
+𝙐	;mbfitsansU
+𝙑	;mbfitsansV
+𝙒	;mbfitsansW
+𝙓	;mbfitsansX
+𝙔	;mbfitsansY
+𝙕	;mbfitsansZ
+𝙖	;mbfitsansa
+𝙗	;mbfitsansb
+𝙘	;mbfitsansc
+𝙙	;mbfitsansd
+𝙚	;mbfitsanse
+𝙛	;mbfitsansf
+𝙜	;mbfitsansg
+𝙝	;mbfitsansh
+𝙞	;mbfitsansi
+𝙟	;mbfitsansj
+𝙠	;mbfitsansk
+𝙡	;mbfitsansl
+𝙢	;mbfitsansm
+𝙣	;mbfitsansn
+𝙤	;mbfitsanso
+𝙥	;mbfitsansp
+𝙦	;mbfitsansq
+𝙧	;mbfitsansr
+𝙨	;mbfitsanss
+𝙩	;mbfitsanst
+𝙪	;mbfitsansu
+𝙫	;mbfitsansv
+𝙬	;mbfitsansw
+𝙭	;mbfitsansx
+𝙮	;mbfitsansy
+𝙯	;mbfitsansz
+𝙰	;mttA
+𝙱	;mttB
+𝙲	;mttC
+𝙳	;mttD
+𝙴	;mttE
+𝙵	;mttF
+𝙶	;mttG
+𝙷	;mttH
+𝙸	;mttI
+𝙹	;mttJ
+𝙺	;mttK
+𝙻	;mttL
+𝙼	;mttM
+𝙽	;mttN
+𝙾	;mttO
+𝙿	;mttP
+𝚀	;mttQ
+𝚁	;mttR
+𝚂	;mttS
+𝚃	;mttT
+𝚄	;mttU
+𝚅	;mttV
+𝚆	;mttW
+𝚇	;mttX
+𝚈	;mttY
+𝚉	;mttZ
+𝚊	;mtta
+𝚋	;mttb
+𝚌	;mttc
+𝚍	;mttd
+𝚎	;mtte
+𝚏	;mttf
+𝚐	;mttg
+𝚑	;mtth
+𝚒	;mtti
+𝚓	;mttj
+𝚔	;mttk
+𝚕	;mttl
+𝚖	;mttm
+𝚗	;mttn
+𝚘	;mtto
+𝚙	;mttp
+𝚚	;mttq
+𝚛	;mttr
+𝚜	;mtts
+𝚝	;mttt
+𝚞	;mttu
+𝚟	;mttv
+𝚠	;mttw
+𝚡	;mttx
+𝚢	;mtty
+𝚣	;mttz
+𝚤	;imath
+𝚥	;jmath
+𝚨	;mbfAlpha
+𝚩	;mbfBeta
+𝚪	;mbfGamma
+𝚫	;mbfDelta
+𝚬	;mbfEpsilon
+𝚭	;mbfZeta
+𝚮	;mbfEta
+𝚯	;mbfTheta
+𝚰	;mbfIota
+𝚱	;mbfKappa
+𝚲	;mbfLambda
+𝚳	;mbfMu
+𝚴	;mbfNu
+𝚵	;mbfXi
+𝚶	;mbfOmicron
+𝚷	;mbfPi
+𝚸	;mbfRho
+𝚹	;mbfvarTheta
+𝚺	;mbfSigma
+𝚻	;mbfTau
+𝚼	;mbfUpsilon
+𝚽	;mbfPhi
+𝚾	;mbfChi
+𝚿	;mbfPsi
+𝛀	;mbfOmega
+𝛁	;mbfnabla
+𝛂	;mbfalpha
+𝛃	;mbfbeta
+𝛄	;mbfgamma
+𝛅	;mbfdelta
+𝛆	;mbfvarepsilon
+𝛇	;mbfzeta
+𝛈	;mbfeta
+𝛉	;mbftheta
+𝛊	;mbfiota
+𝛋	;mbfkappa
+𝛌	;mbflambda
+𝛍	;mbfmu
+𝛎	;mbfnu
+𝛏	;mbfxi
+𝛐	;mbfomicron
+𝛑	;mbfpi
+𝛒	;mbfrho
+𝛓	;mbfvarsigma
+𝛔	;mbfsigma
+𝛕	;mbftau
+𝛖	;mbfupsilon
+𝛗	;mbfvarphi
+𝛘	;mbfchi
+𝛙	;mbfpsi
+𝛚	;mbfomega
+𝛛	;mbfpartial
+𝛜	;mbfepsilon
+𝛝	;mbfvartheta
+𝛞	;mbfvarkappa
+𝛟	;mbfphi
+𝛠	;mbfvarrho
+𝛡	;mbfvarpi
+𝛢	;mitAlpha
+𝛣	;mitBeta
+𝛤	;mitGamma
+𝛥	;mitDelta
+𝛦	;mitEpsilon
+𝛧	;mitZeta
+𝛨	;mitEta
+𝛩	;mitTheta
+𝛪	;mitIota
+𝛫	;mitKappa
+𝛬	;mitLambda
+𝛭	;mitMu
+𝛮	;mitNu
+𝛯	;mitXi
+𝛰	;mitOmicron
+𝛱	;mitPi
+𝛲	;mitRho
+𝛳	;mitvarTheta
+𝛴	;mitSigma
+𝛵	;mitTau
+𝛶	;mitUpsilon
+𝛷	;mitPhi
+𝛸	;mitChi
+𝛹	;mitPsi
+𝛺	;mitOmega
+𝛻	;mitnabla
+𝛼	;mitalpha
+𝛽	;mitbeta
+𝛾	;mitgamma
+𝛿	;mitdelta
+𝜀	;mitvarepsilon
+𝜁	;mitzeta
+𝜂	;miteta
+𝜃	;mittheta
+𝜄	;mitiota
+𝜅	;mitkappa
+𝜆	;mitlambda
+𝜇	;mitmu
+𝜈	;mitnu
+𝜉	;mitxi
+𝜊	;mitomicron
+𝜋	;mitpi
+𝜌	;mitrho
+𝜍	;mitvarsigma
+𝜎	;mitsigma
+𝜏	;mittau
+𝜐	;mitupsilon
+𝜑	;mitvarphi
+𝜒	;mitchi
+𝜓	;mitpsi
+𝜔	;mitomega
+𝜕	;mitpartial
+𝜖	;mitepsilon
+𝜗	;mitvartheta
+𝜘	;mitvarkappa
+𝜙	;mitphi
+𝜚	;mitvarrho
+𝜛	;mitvarpi
+𝜜	;mbfitAlpha
+𝜝	;mbfitBeta
+𝜞	;mbfitGamma
+𝜟	;mbfitDelta
+𝜠	;mbfitEpsilon
+𝜡	;mbfitZeta
+𝜢	;mbfitEta
+𝜣	;mbfitTheta
+𝜤	;mbfitIota
+𝜥	;mbfitKappa
+𝜦	;mbfitLambda
+𝜧	;mbfitMu
+𝜨	;mbfitNu
+𝜩	;mbfitXi
+𝜪	;mbfitOmicron
+𝜫	;mbfitPi
+𝜬	;mbfitRho
+𝜭	;mbfitvarTheta
+𝜮	;mbfitSigma
+𝜯	;mbfitTau
+𝜰	;mbfitUpsilon
+𝜱	;mbfitPhi
+𝜲	;mbfitChi
+𝜳	;mbfitPsi
+𝜴	;mbfitOmega
+𝜵	;mbfitnabla
+𝜶	;mbfitalpha
+𝜷	;mbfitbeta
+𝜸	;mbfitgamma
+𝜹	;mbfitdelta
+𝜺	;mbfitvarepsilon
+𝜻	;mbfitzeta
+𝜼	;mbfiteta
+𝜽	;mbfittheta
+𝜾	;mbfitiota
+𝜿	;mbfitkappa
+𝝀	;mbfitlambda
+𝝁	;mbfitmu
+𝝂	;mbfitnu
+𝝃	;mbfitxi
+𝝄	;mbfitomicron
+𝝅	;mbfitpi
+𝝆	;mbfitrho
+𝝇	;mbfitvarsigma
+𝝈	;mbfitsigma
+𝝉	;mbfittau
+𝝊	;mbfitupsilon
+𝝋	;mbfitvarphi
+𝝌	;mbfitchi
+𝝍	;mbfitpsi
+𝝎	;mbfitomega
+𝝏	;mbfitpartial
+𝝐	;mbfitepsilon
+𝝑	;mbfitvartheta
+𝝒	;mbfitvarkappa
+𝝓	;mbfitphi
+𝝔	;mbfitvarrho
+𝝕	;mbfitvarpi
+𝝖	;mbfsansAlpha
+𝝗	;mbfsansBeta
+𝝘	;mbfsansGamma
+𝝙	;mbfsansDelta
+𝝚	;mbfsansEpsilon
+𝝛	;mbfsansZeta
+𝝜	;mbfsansEta
+𝝝	;mbfsansTheta
+𝝞	;mbfsansIota
+𝝟	;mbfsansKappa
+𝝠	;mbfsansLambda
+𝝡	;mbfsansMu
+𝝢	;mbfsansNu
+𝝣	;mbfsansXi
+𝝤	;mbfsansOmicron
+𝝥	;mbfsansPi
+𝝦	;mbfsansRho
+𝝧	;mbfsansvarTheta
+𝝨	;mbfsansSigma
+𝝩	;mbfsansTau
+𝝪	;mbfsansUpsilon
+𝝫	;mbfsansPhi
+𝝬	;mbfsansChi
+𝝭	;mbfsansPsi
+𝝮	;mbfsansOmega
+𝝯	;mbfsansnabla
+𝝰	;mbfsansalpha
+𝝱	;mbfsansbeta
+𝝲	;mbfsansgamma
+𝝳	;mbfsansdelta
+𝝴	;mbfsansvarepsilon
+𝝵	;mbfsanszeta
+𝝶	;mbfsanseta
+𝝷	;mbfsanstheta
+𝝸	;mbfsansiota
+𝝹	;mbfsanskappa
+𝝺	;mbfsanslambda
+𝝻	;mbfsansmu
+𝝼	;mbfsansnu
+𝝽	;mbfsansxi
+𝝾	;mbfsansomicron
+𝝿	;mbfsanspi
+𝞀	;mbfsansrho
+𝞁	;mbfsansvarsigma
+𝞂	;mbfsanssigma
+𝞃	;mbfsanstau
+𝞄	;mbfsansupsilon
+𝞅	;mbfsansvarphi
+𝞆	;mbfsanschi
+𝞇	;mbfsanspsi
+𝞈	;mbfsansomega
+𝞉	;mbfsanspartial
+𝞊	;mbfsansepsilon
+𝞋	;mbfsansvartheta
+𝞌	;mbfsansvarkappa
+𝞍	;mbfsansphi
+𝞎	;mbfsansvarrho
+𝞏	;mbfsansvarpi
+𝞐	;mbfitsansAlpha
+𝞑	;mbfitsansBeta
+𝞒	;mbfitsansGamma
+𝞓	;mbfitsansDelta
+𝞔	;mbfitsansEpsilon
+𝞕	;mbfitsansZeta
+𝞖	;mbfitsansEta
+𝞗	;mbfitsansTheta
+𝞘	;mbfitsansIota
+𝞙	;mbfitsansKappa
+𝞚	;mbfitsansLambda
+𝞛	;mbfitsansMu
+𝞜	;mbfitsansNu
+𝞝	;mbfitsansXi
+𝞞	;mbfitsansOmicron
+𝞟	;mbfitsansPi
+𝞠	;mbfitsansRho
+𝞡	;mbfitsansvarTheta
+𝞢	;mbfitsansSigma
+𝞣	;mbfitsansTau
+𝞤	;mbfitsansUpsilon
+𝞥	;mbfitsansPhi
+𝞦	;mbfitsansChi
+𝞧	;mbfitsansPsi
+𝞨	;mbfitsansOmega
+𝞩	;mbfitsansnabla
+𝞪	;mbfitsansalpha
+𝞫	;mbfitsansbeta
+𝞬	;mbfitsansgamma
+𝞭	;mbfitsansdelta
+𝞮	;mbfitsansvarepsilon
+𝞯	;mbfitsanszeta
+𝞰	;mbfitsanseta
+𝞱	;mbfitsanstheta
+𝞲	;mbfitsansiota
+𝞳	;mbfitsanskappa
+𝞴	;mbfitsanslambda
+𝞵	;mbfitsansmu
+𝞶	;mbfitsansnu
+𝞷	;mbfitsansxi
+𝞸	;mbfitsansomicron
+𝞹	;mbfitsanspi
+𝞺	;mbfitsansrho
+𝞻	;mbfitsansvarsigma
+𝞼	;mbfitsanssigma
+𝞽	;mbfitsanstau
+𝞾	;mbfitsansupsilon
+𝞿	;mbfitsansvarphi
+𝟀	;mbfitsanschi
+𝟁	;mbfitsanspsi
+𝟂	;mbfitsansomega
+𝟃	;mbfitsanspartial
+𝟄	;mbfitsansepsilon
+𝟅	;mbfitsansvartheta
+𝟆	;mbfitsansvarkappa
+𝟇	;mbfitsansphi
+𝟈	;mbfitsansvarrho
+𝟉	;mbfitsansvarpi
+𝟊	;mbfDigamma
+𝟋	;mbfdigamma
+𝟎	;mbfzero
+𝟏	;mbfone
+𝟐	;mbftwo
+𝟑	;mbfthree
+𝟒	;mbffour
+𝟓	;mbffive
+𝟔	;mbfsix
+𝟕	;mbfseven
+𝟖	;mbfeight
+𝟗	;mbfnine
+𝟘	;Bbbzero
+𝟙	;Bbbone
+𝟚	;Bbbtwo
+𝟛	;Bbbthree
+𝟜	;Bbbfour
+𝟝	;Bbbfive
+𝟞	;Bbbsix
+𝟟	;Bbbseven
+𝟠	;Bbbeight
+𝟡	;Bbbnine
+𝟢	;msanszero
+𝟣	;msansone
+𝟤	;msanstwo
+𝟥	;msansthree
+𝟦	;msansfour
+𝟧	;msansfive
+𝟨	;msanssix
+𝟩	;msansseven
+𝟪	;msanseight
+𝟫	;msansnine
+𝟬	;mbfsanszero
+𝟭	;mbfsansone
+𝟮	;mbfsanstwo
+𝟯	;mbfsansthree
+𝟰	;mbfsansfour
+𝟱	;mbfsansfive
+𝟲	;mbfsanssix
+𝟳	;mbfsansseven
+𝟴	;mbfsanseight
+𝟵	;mbfsansnine
+𝟶	;mttzero
+𝟷	;mttone
+𝟸	;mtttwo
+𝟹	;mttthree
+𝟺	;mttfour
+𝟻	;mttfive
+𝟼	;mttsix
+𝟽	;mttseven
+𝟾	;mtteight
+𝟿	;mttnine
+𞻰	;arabicmaj
+𞻱	;arabichad
+°	;degree
+
+
+
+#	Abbreviations
+⟹	;implies
+⟸	;impliedby
+⟺	;iff
+•	;bullet
+∘	;circ
+□	;square
+■	;blacksquare
+¬	;lnot
+∧	;land
+∨	;lor
+
+#	Small caps: ;textsc
+ᴀ	;tsca
+ʙ	;tscb
+ᴄ	;tscc
+ᴅ	;tscd
+ᴇ	;tsce
+ꜰ	;tscf
+ɢ	;tscg
+ʜ	;tsch
+ɪ	;tsci
+ᴊ	;tscj
+ᴋ	;tsck
+ʟ	;tscl
+ᴍ	;tscm
+ɴ	;tscn
+ᴏ	;tsco
+ᴘ	;tscp
+#	Warning: the script ;textsc{q} is not supported in many fonts
+ꞯ	;tscq
+ʀ	;tscr
+ꜱ	;tscs
+ᴛ	;tsct
+ᴜ	;tscu
+ᴠ	;tscv
+ᴡ	;tscw
+#	Warning: Unicode does not support ;textsc{x}
+ʏ	;tscy
+ᴢ	;tscz
+
+#	Brackets
+⟦	;[[
+⟧	;]]
+⸨	;((
+⸩	;))
+
+#	Misc
+§	;ss
+
+
